@@ -1,0 +1,65 @@
+name: Tamil Gems addon
+
+on:
+  schedule:
+    - cron: "35 18 * * *"     # daily 00:05 IST  -> reshuffle + deploy
+    - cron: "17 21 1,16 * *"  # 2nd & 17th, 02:47 IST -> hard refresh + deploy
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: "Hard refresh (re-pull TMDB + IMDb data)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: tamil-gems
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.event.schedule == '17 21 1,16 * *' || inputs.refresh == true
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rebuild pool from TMDB + IMDb
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python scripts/refresh.py
+      - name: Commit updated pool
+        run: |
+          git config user.name  "tamil-gems-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || (git commit -m "Hard refresh: $(date -u +%F)" && git push)
+
+  deploy:
+    needs: refresh
+    if: ${{ !cancelled() && needs.refresh.result != 'failure' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}   # pick up the refresh commit if one was just pushed
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build daily-shuffled catalogs
+        run: python scripts/build.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: pages
+        uses: actions/deploy-pages@v4
