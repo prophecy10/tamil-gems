@@ -12,7 +12,7 @@
 "Drama"
 ],
 "imdb_rating": 8.3,
-"imdb_votes": 9182,
+"imdb_votes": 9184,
 "wr": 8.103
 },
 {
@@ -29,7 +29,7 @@
 "Crime"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 15397,
+"imdb_votes": 15399,
 "wr": 7.896
 },
 {
@@ -45,7 +45,7 @@
 "Romance"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 7100,
+"imdb_votes": 7102,
 "wr": 7.702
 },
 {
@@ -61,7 +61,7 @@
 "Romance"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 4382,
+"imdb_votes": 4385,
 "wr": 7.439
 },
 {
@@ -77,7 +77,7 @@
 "Drama"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 2933,
+"imdb_votes": 2934,
 "wr": 7.268
 },
 {
@@ -108,8 +108,8 @@
 "Drama"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 1500,
-"wr": 7.198
+"imdb_votes": 1503,
+"wr": 7.199
 },
 {
 "id": "tt1388441",
@@ -125,7 +125,7 @@
 "Family"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 1746,
+"imdb_votes": 1747,
 "wr": 6.934
 },
 {
@@ -171,7 +171,7 @@
 "Family"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 385,
+"imdb_votes": 386,
 "wr": 6.547
 },
 {
@@ -203,7 +203,7 @@
 "Action"
 ],
 "imdb_rating": 6.4,
-"imdb_votes": 392,
+"imdb_votes": 394,
 "wr": 6.325
 },
 {
@@ -220,7 +220,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 6248,
+"imdb_votes": 6253,
 "wr": 7.679
 },
 {
@@ -252,8 +252,8 @@
 "Romance"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 2923,
-"wr": 7.267
+"imdb_votes": 2925,
+"wr": 7.268
 },
 {
 "id": "tt0357905",
@@ -268,7 +268,7 @@
 "Romance"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 2844,
+"imdb_votes": 2846,
 "wr": 7.261
 },
 {
@@ -286,7 +286,7 @@
 ],
 "imdb_rating": 7.3,
 "imdb_votes": 3961,
-"wr": 7.097
+"wr": 7.098
 },
 {
 "id": "tt0294264",
@@ -300,7 +300,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 3508,
+"imdb_votes": 3509,
 "wr": 6.999
 },
 {
@@ -316,7 +316,7 @@
 "Drama"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 3193,
+"imdb_votes": 3195,
 "wr": 6.908
 },
 {
@@ -441,7 +441,7 @@
 "War"
 ],
 "imdb_rating": 8.3,
-"imdb_votes": 10984,
+"imdb_votes": 10985,
 "wr": 8.133
 },
 {
@@ -458,7 +458,7 @@
 "Family"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 5181,
+"imdb_votes": 5185,
 "wr": 7.892
 },
 {
@@ -490,7 +490,7 @@
 "Drama"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 2793,
+"imdb_votes": 2796,
 "wr": 7.33
 },
 {
@@ -523,7 +523,7 @@
 "Drama"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 3023,
+"imdb_votes": 3026,
 "wr": 6.9
 },
 {
@@ -539,8 +539,8 @@
 "Family"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 1217,
-"wr": 6.792
+"imdb_votes": 1220,
+"wr": 6.793
 },
 {
 "id": "tt0331621",
@@ -556,7 +556,7 @@
 "Romance"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 1231,
+"imdb_votes": 1232,
 "wr": 6.684
 },
 {
@@ -608,6 +608,21 @@
 "wr": 6.298
 },
 {
+"id": "tt0384495",
+"tmdb_id": 69663,
+"name": "Samurai",
+"year": 2002,
+"poster": "https://image.tmdb.org/t/p/w500/8NPoHZK4vkDEfY0YiHMVcqebS9C.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/fQmt4yQ3Kwt2KKt0pQSolr1CZYn.jpg",
+"overview": "Thiyagu is a medico who leads a masked gang of four to abduct corrupt politicians and bureaucrats who use the loophole in law to enjoy their prison term in hospitals or guest houses. Deiva, a schoolgirl and daughter of the police officer who is hot on the trail of the mysterious gang, has a crush on Thiyagu, but she is not aware of his real identity.",
+"genres": [
+"Action"
+],
+"imdb_rating": 6.3,
+"imdb_votes": 714,
+"wr": 6.297
+},
+{
 "id": "tt1621983",
 "tmdb_id": 69534,
 "name": "Thulluvadho Ilamai",
@@ -621,21 +636,6 @@
 ],
 "imdb_rating": 6.3,
 "imdb_votes": 715,
-"wr": 6.297
-},
-{
-"id": "tt0384495",
-"tmdb_id": 69663,
-"name": "Samurai",
-"year": 2002,
-"poster": "https://image.tmdb.org/t/p/w500/8NPoHZK4vkDEfY0YiHMVcqebS9C.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/fQmt4yQ3Kwt2KKt0pQSolr1CZYn.jpg",
-"overview": "Thiyagu is a medico who leads a masked gang of four to abduct corrupt politicians and bureaucrats who use the loophole in law to enjoy their prison term in hospitals or guest houses. Deiva, a schoolgirl and daughter of the police officer who is hot on the trail of the mysterious gang, has a crush on Thiyagu, but she is not aware of his real identity.",
-"genres": [
-"Action"
-],
-"imdb_rating": 6.3,
-"imdb_votes": 714,
 "wr": 6.297
 },
 {
@@ -667,7 +667,7 @@
 "Drama"
 ],
 "imdb_rating": 8.6,
-"imdb_votes": 28833,
+"imdb_votes": 28838,
 "wr": 8.523
 },
 {
@@ -683,7 +683,7 @@
 "Drama"
 ],
 "imdb_rating": 8.3,
-"imdb_votes": 8590,
+"imdb_votes": 8595,
 "wr": 8.091
 },
 {
@@ -700,7 +700,7 @@
 "Action"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 7625,
+"imdb_votes": 7630,
 "wr": 7.802
 },
 {
@@ -717,7 +717,7 @@
 "Thriller"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 2797,
+"imdb_votes": 2799,
 "wr": 7.551
 },
 {
@@ -734,7 +734,7 @@
 "Romance"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 4523,
+"imdb_votes": 4524,
 "wr": 7.036
 },
 {
@@ -785,7 +785,7 @@
 "Romance"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 3571,
+"imdb_votes": 3573,
 "wr": 6.924
 },
 {
@@ -803,7 +803,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 1910,
+"imdb_votes": 1912,
 "wr": 6.889
 },
 {
@@ -850,7 +850,7 @@
 "Comedy"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 2740,
+"imdb_votes": 2742,
 "wr": 6.592
 },
 {
@@ -886,7 +886,7 @@
 ],
 "imdb_rating": 6.2,
 "imdb_votes": 527,
-"wr": 6.262
+"wr": 6.263
 },
 {
 "id": "tt0466854",
@@ -934,7 +934,7 @@
 "Action"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 9975,
+"imdb_votes": 9976,
 "wr": 8.208
 },
 {
@@ -952,7 +952,7 @@
 "Romance"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 19436,
+"imdb_votes": 19441,
 "wr": 8.107
 },
 {
@@ -967,7 +967,7 @@
 "Comedy"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 4457,
+"imdb_votes": 4460,
 "wr": 7.688
 },
 {
@@ -984,8 +984,8 @@
 "Thriller"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 5617,
-"wr": 7.657
+"imdb_votes": 5619,
+"wr": 7.658
 },
 {
 "id": "tt0439418",
@@ -1001,7 +1001,7 @@
 "Romance"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 3485,
+"imdb_votes": 3486,
 "wr": 7.542
 },
 {
@@ -1033,7 +1033,7 @@
 "Drama"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 1405,
+"imdb_votes": 1407,
 "wr": 7.058
 },
 {
@@ -1050,7 +1050,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 3365,
+"imdb_votes": 3368,
 "wr": 6.993
 },
 {
@@ -1065,7 +1065,7 @@
 "Romance"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 1888,
+"imdb_votes": 1889,
 "wr": 6.887
 },
 {
@@ -1081,7 +1081,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 1922,
+"imdb_votes": 1924,
 "wr": 6.43
 },
 {
@@ -1114,7 +1114,7 @@
 "Drama"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 1904,
+"imdb_votes": 1905,
 "wr": 6.298
 },
 {
@@ -1147,7 +1147,7 @@
 "Romance"
 ],
 "imdb_rating": 6.1,
-"imdb_votes": 787,
+"imdb_votes": 790,
 "wr": 6.209
 },
 {
@@ -1165,7 +1165,7 @@
 "Crime"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 27277,
+"imdb_votes": 27287,
 "wr": 8.326
 },
 {
@@ -1182,7 +1182,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 17263,
+"imdb_votes": 17270,
 "wr": 7.529
 },
 {
@@ -1198,7 +1198,7 @@
 "Romance"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 8298,
+"imdb_votes": 8301,
 "wr": 7.281
 },
 {
@@ -1232,7 +1232,7 @@
 "Drama"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 8340,
+"imdb_votes": 8350,
 "wr": 7.103
 },
 {
@@ -1264,8 +1264,8 @@
 "Drama"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 832,
-"wr": 6.706
+"imdb_votes": 833,
+"wr": 6.707
 },
 {
 "id": "tt0497573",
@@ -1280,8 +1280,8 @@
 "Romance"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 1178,
-"wr": 6.676
+"imdb_votes": 1180,
+"wr": 6.677
 },
 {
 "id": "tt0808892",
@@ -1328,7 +1328,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.6,
-"imdb_votes": 5485,
+"imdb_votes": 5487,
 "wr": 6.553
 },
 {
@@ -1392,7 +1392,7 @@
 "Crime"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 9909,
+"imdb_votes": 9914,
 "wr": 8.207
 },
 {
@@ -1408,7 +1408,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 8957,
+"imdb_votes": 8958,
 "wr": 7.739
 },
 {
@@ -1423,7 +1423,7 @@
 "Drama"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 1381,
+"imdb_votes": 1382,
 "wr": 7.284
 },
 {
@@ -1439,7 +1439,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 1729,
+"imdb_votes": 1730,
 "wr": 7.249
 },
 {
@@ -1454,7 +1454,7 @@
 "Drama"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 4178,
+"imdb_votes": 4180,
 "wr": 7.106
 },
 {
@@ -1469,7 +1469,7 @@
 "Drama"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 908,
+"imdb_votes": 909,
 "wr": 7.059
 },
 {
@@ -1485,7 +1485,7 @@
 "Romance"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 4736,
+"imdb_votes": 4741,
 "wr": 6.96
 },
 {
@@ -1502,7 +1502,7 @@
 "Action"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 1609,
+"imdb_votes": 1610,
 "wr": 6.792
 },
 {
@@ -1517,7 +1517,7 @@
 "Crime"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 530,
+"imdb_votes": 531,
 "wr": 6.609
 },
 {
@@ -1551,7 +1551,7 @@
 "Romance"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 1073,
+"imdb_votes": 1076,
 "wr": 6.401
 },
 {
@@ -1615,7 +1615,7 @@
 "Thriller"
 ],
 "imdb_rating": 8.5,
-"imdb_votes": 3916,
+"imdb_votes": 3917,
 "wr": 8.052
 },
 {
@@ -1632,7 +1632,7 @@
 "Action"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 4642,
+"imdb_votes": 4643,
 "wr": 7.862
 },
 {
@@ -1649,8 +1649,8 @@
 "Romance"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 2344,
-"wr": 7.56
+"imdb_votes": 2347,
+"wr": 7.561
 },
 {
 "id": "tt0479751",
@@ -1665,7 +1665,7 @@
 "Drama"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 24453,
+"imdb_votes": 24470,
 "wr": 7.549
 },
 {
@@ -1683,7 +1683,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 15209,
+"imdb_votes": 15213,
 "wr": 7.52
 },
 {
@@ -1698,7 +1698,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 2902,
+"imdb_votes": 2905,
 "wr": 7.489
 },
 {
@@ -1714,7 +1714,7 @@
 "Drama"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 3156,
+"imdb_votes": 3158,
 "wr": 7.362
 },
 {
@@ -1730,7 +1730,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 8812,
+"imdb_votes": 8815,
 "wr": 7.198
 },
 {
@@ -1761,7 +1761,7 @@
 "Drama"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 614,
+"imdb_votes": 615,
 "wr": 6.716
 },
 {
@@ -1791,8 +1791,8 @@
 "Drama"
 ],
 "imdb_rating": 6.6,
-"imdb_votes": 2190,
-"wr": 6.504
+"imdb_votes": 2191,
+"wr": 6.505
 },
 {
 "id": "tt0977625",
@@ -1823,7 +1823,7 @@
 "Drama"
 ],
 "imdb_rating": 6.4,
-"imdb_votes": 2693,
+"imdb_votes": 2695,
 "wr": 6.372
 },
 {
@@ -1840,7 +1840,7 @@
 "Action"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 785,
+"imdb_votes": 786,
 "wr": 6.297
 },
 {
@@ -1889,7 +1889,7 @@
 "Romance"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 16248,
+"imdb_votes": 16263,
 "wr": 8.09
 },
 {
@@ -1906,7 +1906,7 @@
 "Romance"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 2761,
+"imdb_votes": 2762,
 "wr": 7.694
 },
 {
@@ -1956,7 +1956,7 @@
 "Family"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 2512,
+"imdb_votes": 2513,
 "wr": 7.229
 },
 {
@@ -1964,7 +1964,7 @@
 "tmdb_id": 17888,
 "name": "Dasavatharam",
 "year": 2008,
-"poster": "https://image.tmdb.org/t/p/w500/6JVJEJmFb0cL7r7p00BvNDeC70Y.jpg",
+"poster": "https://image.tmdb.org/t/p/w500/xUTVWhYSQktqnmxk7ENDnf2Wq9w.jpg",
 "background": "https://image.tmdb.org/t/p/w1280/sVImmZxxflmCxhsMEgWyoPWoTTe.jpg",
 "overview": "Bio-technologist Govind K Somaiyya sets about on a precarious journey to India to retrieve a vial containing a deadly virus and prevent it from reaching the wrong hands of an ex-CIA agent and deadly assassins.",
 "genres": [
@@ -1972,7 +1972,7 @@
 "Adventure"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 11788,
+"imdb_votes": 11790,
 "wr": 7.221
 },
 {
@@ -1989,8 +1989,8 @@
 "Family"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 1887,
-"wr": 7.213
+"imdb_votes": 1889,
+"wr": 7.214
 },
 {
 "id": "tt1286811",
@@ -2004,8 +2004,8 @@
 "Drama"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 819,
-"wr": 7.153
+"imdb_votes": 820,
+"wr": 7.154
 },
 {
 "id": "tt1388444",
@@ -2021,7 +2021,7 @@
 "Action"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 3131,
+"imdb_votes": 3134,
 "wr": 7.133
 },
 {
@@ -2037,7 +2037,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 1661,
+"imdb_votes": 1663,
 "wr": 6.798
 },
 {
@@ -2054,7 +2054,7 @@
 ],
 "imdb_rating": 7.6,
 "imdb_votes": 304,
-"wr": 6.599
+"wr": 6.6
 },
 {
 "id": "tt1233329",
@@ -2085,7 +2085,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 6519,
+"imdb_votes": 6520,
 "wr": 7.687
 },
 {
@@ -2102,7 +2102,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 12981,
+"imdb_votes": 12990,
 "wr": 7.6
 },
 {
@@ -2118,7 +2118,7 @@
 "Horror"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 11513,
+"imdb_votes": 11522,
 "wr": 7.312
 },
 {
@@ -2150,7 +2150,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 2082,
+"imdb_votes": 2083,
 "wr": 7.177
 },
 {
@@ -2165,8 +2165,8 @@
 "Drama"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 1662,
-"wr": 7.172
+"imdb_votes": 1663,
+"wr": 7.173
 },
 {
 "id": "tt1804623",
@@ -2182,7 +2182,7 @@
 ],
 "imdb_rating": 7.7,
 "imdb_votes": 1343,
-"wr": 7.1
+"wr": 7.101
 },
 {
 "id": "tt3144804",
@@ -2213,7 +2213,7 @@
 "Adventure"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 1702,
+"imdb_votes": 1704,
 "wr": 6.865
 },
 {
@@ -2246,8 +2246,8 @@
 "Romance"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 812,
-"wr": 6.79
+"imdb_votes": 813,
+"wr": 6.791
 },
 {
 "id": "tt13612828",
@@ -2278,8 +2278,8 @@
 "Adventure"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 8726,
-"wr": 7.914
+"imdb_votes": 8734,
+"wr": 7.915
 },
 {
 "id": "tt1609168",
@@ -2294,7 +2294,7 @@
 "Romance"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 7841,
+"imdb_votes": 7844,
 "wr": 7.896
 },
 {
@@ -2304,7 +2304,7 @@
 "year": 2010,
 "poster": "https://image.tmdb.org/t/p/w500/7bqcgfkzdVPxxBbap8Cy7spXiDj.jpg",
 "background": "https://image.tmdb.org/t/p/w1280/wYEGzuGqodkcx6pSvRPbX5KeQkV.jpg",
-"overview": "Amy, the wife of an English governor, falls in love with Parithi, a villager, and they run away. However, they are caught and she is taken back to London. Years later, she comes back in search of him.",
+"overview": "Amy, the daughter of an English governor, falls in love with Parithi, a villager, and they run away. However, they are caught and she is taken back to London. Years later, she comes back in search of him.",
 "genres": [
 "Drama",
 "History",
@@ -2328,7 +2328,7 @@
 "Adventure"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 34438,
+"imdb_votes": 34464,
 "wr": 7.174
 },
 {
@@ -2344,7 +2344,7 @@
 "Romance"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 1609,
+"imdb_votes": 1610,
 "wr": 7.162
 },
 {
@@ -2361,7 +2361,7 @@
 "Action"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 3337,
+"imdb_votes": 3338,
 "wr": 7.068
 },
 {
@@ -2394,7 +2394,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 1514,
+"imdb_votes": 1515,
 "wr": 6.961
 },
 {
@@ -2410,7 +2410,7 @@
 "Drama"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 8924,
+"imdb_votes": 8934,
 "wr": 6.929
 },
 {
@@ -2459,7 +2459,7 @@
 "Crime"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 5213,
+"imdb_votes": 5216,
 "wr": 6.887
 },
 {
@@ -2476,7 +2476,7 @@
 "Romance"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 4133,
+"imdb_votes": 4135,
 "wr": 6.621
 },
 {
@@ -2492,7 +2492,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 642,
+"imdb_votes": 643,
 "wr": 6.61
 },
 {
@@ -2523,7 +2523,7 @@
 "Romance"
 ],
 "imdb_rating": 6.6,
-"imdb_votes": 1775,
+"imdb_votes": 1777,
 "wr": 6.49
 },
 {
@@ -2574,7 +2574,7 @@
 "Drama"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 6214,
+"imdb_votes": 6216,
 "wr": 8.108
 },
 {
@@ -2590,7 +2590,7 @@
 "Family"
 ],
 "imdb_rating": 8.3,
-"imdb_votes": 7685,
+"imdb_votes": 7686,
 "wr": 8.069
 },
 {
@@ -2607,7 +2607,7 @@
 "Thriller"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 8086,
+"imdb_votes": 8089,
 "wr": 7.901
 },
 {
@@ -2623,7 +2623,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 17902,
+"imdb_votes": 17908,
 "wr": 7.72
 },
 {
@@ -2639,7 +2639,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 7151,
+"imdb_votes": 7155,
 "wr": 7.703
 },
 {
@@ -2655,7 +2655,7 @@
 "Family"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 4786,
+"imdb_votes": 4788,
 "wr": 7.457
 },
 {
@@ -2672,8 +2672,8 @@
 "Thriller"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 2484,
-"wr": 7.439
+"imdb_votes": 2485,
+"wr": 7.44
 },
 {
 "id": "tt2078763",
@@ -2687,7 +2687,7 @@
 "Drama"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 1328,
+"imdb_votes": 1329,
 "wr": 7.382
 },
 {
@@ -2702,7 +2702,7 @@
 "Drama"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 2499,
+"imdb_votes": 2501,
 "wr": 7.37
 },
 {
@@ -2752,8 +2752,8 @@
 "Romance"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 8710,
-"wr": 6.927
+"imdb_votes": 8718,
+"wr": 6.928
 },
 {
 "id": "tt1725795",
@@ -2769,7 +2769,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 15094,
+"imdb_votes": 15105,
 "wr": 6.675
 },
 {
@@ -2785,8 +2785,8 @@
 "Comedy"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 2730,
-"wr": 6.591
+"imdb_votes": 2732,
+"wr": 6.592
 },
 {
 "id": "tt3577454",
@@ -2866,7 +2866,7 @@
 "Romance"
 ],
 "imdb_rating": 6.2,
-"imdb_votes": 922,
+"imdb_votes": 923,
 "wr": 6.25
 },
 {
@@ -2881,7 +2881,7 @@
 "Action"
 ],
 "imdb_rating": 6.1,
-"imdb_votes": 14476,
+"imdb_votes": 14478,
 "wr": 6.113
 },
 {
@@ -2897,7 +2897,7 @@
 "Thriller"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 41987,
+"imdb_votes": 42003,
 "wr": 8.058
 },
 {
@@ -2913,7 +2913,7 @@
 "Drama"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 7008,
+"imdb_votes": 7012,
 "wr": 7.962
 },
 {
@@ -2931,7 +2931,7 @@
 "Horror"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 10017,
+"imdb_votes": 10024,
 "wr": 7.754
 },
 {
@@ -2947,7 +2947,7 @@
 "Drama"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 18600,
+"imdb_votes": 18607,
 "wr": 7.723
 },
 {
@@ -2978,7 +2978,7 @@
 "Romance"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 7446,
+"imdb_votes": 7452,
 "wr": 7.269
 },
 {
@@ -3011,8 +3011,8 @@
 "Drama"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 1912,
-"wr": 6.889
+"imdb_votes": 1914,
+"wr": 6.89
 },
 {
 "id": "tt2262126",
@@ -3026,7 +3026,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 1949,
+"imdb_votes": 1950,
 "wr": 6.827
 },
 {
@@ -3042,8 +3042,8 @@
 "Romance"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 1310,
-"wr": 6.808
+"imdb_votes": 1312,
+"wr": 6.809
 },
 {
 "id": "tt2238837",
@@ -3058,7 +3058,7 @@
 "Romance"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 1667,
+"imdb_votes": 1668,
 "wr": 6.798
 },
 {
@@ -3074,7 +3074,7 @@
 "Romance"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 923,
+"imdb_votes": 924,
 "wr": 6.778
 },
 {
@@ -3123,7 +3123,7 @@
 ],
 "imdb_rating": 6.9,
 "imdb_votes": 1012,
-"wr": 6.599
+"wr": 6.6
 },
 {
 "id": "tt1296162",
@@ -3154,7 +3154,7 @@
 "Romance"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 2188,
+"imdb_votes": 2189,
 "wr": 6.436
 },
 {
@@ -3170,8 +3170,8 @@
 "History"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 507,
-"wr": 6.431
+"imdb_votes": 508,
+"wr": 6.432
 },
 {
 "id": "tt2217781",
@@ -3186,7 +3186,7 @@
 "Family"
 ],
 "imdb_rating": 6.6,
-"imdb_votes": 795,
+"imdb_votes": 796,
 "wr": 6.43
 },
 {
@@ -3218,7 +3218,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 7892,
+"imdb_votes": 7900,
 "wr": 6.299
 },
 {
@@ -3266,7 +3266,7 @@
 "Action"
 ],
 "imdb_rating": 6.1,
-"imdb_votes": 2405,
+"imdb_votes": 2408,
 "wr": 6.157
 },
 {
@@ -3282,8 +3282,8 @@
 "Thriller"
 ],
 "imdb_rating": 6.1,
-"imdb_votes": 2794,
-"wr": 6.151
+"imdb_votes": 2795,
+"wr": 6.152
 },
 {
 "id": "tt2877108",
@@ -3299,7 +3299,7 @@
 "Crime"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 13775,
+"imdb_votes": 13776,
 "wr": 8.071
 },
 {
@@ -3366,7 +3366,7 @@
 "Drama"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 6839,
+"imdb_votes": 6843,
 "wr": 7.434
 },
 {
@@ -3382,7 +3382,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 4416,
+"imdb_votes": 4417,
 "wr": 7.278
 },
 {
@@ -3428,7 +3428,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 4087,
+"imdb_votes": 4090,
 "wr": 6.942
 },
 {
@@ -3445,7 +3445,7 @@
 "Drama"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 11089,
+"imdb_votes": 11091,
 "wr": 6.942
 },
 {
@@ -3461,7 +3461,7 @@
 "Romance"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 2390,
+"imdb_votes": 2392,
 "wr": 6.863
 },
 {
@@ -3477,7 +3477,7 @@
 ],
 "imdb_rating": 7.2,
 "imdb_votes": 1626,
-"wr": 6.855
+"wr": 6.856
 },
 {
 "id": "tt3215258",
@@ -3492,7 +3492,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 2920,
+"imdb_votes": 2921,
 "wr": 6.82
 },
 {
@@ -3508,7 +3508,7 @@
 "Comedy"
 ],
 "imdb_rating": 6.9,
-"imdb_votes": 3231,
+"imdb_votes": 3233,
 "wr": 6.757
 },
 {
@@ -3580,7 +3580,7 @@
 "tmdb_id": 191735,
 "name": "Singam 2",
 "year": 2013,
-"poster": "https://image.tmdb.org/t/p/w500/oxOHwGB986pmFYrGnDaSGQWFTDK.jpg",
+"poster": "https://image.tmdb.org/t/p/w500/6ENAxfZz4IY2NPu89R1SGObjiWF.jpg",
 "background": "https://image.tmdb.org/t/p/w1280/p0soxXBM9n9uvYMHXyPDKK6QdNZ.jpg",
 "overview": "Picking up the storyline from where Singam ended, Duraisingam has gone undercover after meeting the Home Minister and is working as an NCC officer in a school in Thoothukudi. The only people who know about this operation are the Chief Minister and Home Minister apart from himself.",
 "genres": [
@@ -3589,7 +3589,7 @@
 "Crime"
 ],
 "imdb_rating": 6.4,
-"imdb_votes": 8533,
+"imdb_votes": 8542,
 "wr": 6.389
 },
 {
@@ -3622,7 +3622,7 @@
 ],
 "imdb_rating": 6.4,
 "imdb_votes": 368,
-"wr": 6.323
+"wr": 6.324
 },
 {
 "id": "tt2617676",
@@ -3638,7 +3638,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 13035,
+"imdb_votes": 13043,
 "wr": 6.3
 },
 {
@@ -3687,7 +3687,7 @@
 "Romance"
 ],
 "imdb_rating": 6.1,
-"imdb_votes": 453,
+"imdb_votes": 454,
 "wr": 6.234
 },
 {
@@ -3704,7 +3704,7 @@
 "Thriller"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 15102,
+"imdb_votes": 15107,
 "wr": 8.082
 },
 {
@@ -3720,7 +3720,7 @@
 "Drama"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 33573,
+"imdb_votes": 33590,
 "wr": 8.048
 },
 {
@@ -3737,7 +3737,7 @@
 "Action"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 9850,
+"imdb_votes": 9861,
 "wr": 7.752
 },
 {
@@ -3803,8 +3803,8 @@
 "Drama"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 2468,
-"wr": 7.437
+"imdb_votes": 2470,
+"wr": 7.438
 },
 {
 "id": "tt3565264",
@@ -3819,7 +3819,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 3397,
+"imdb_votes": 3398,
 "wr": 7.303
 },
 {
@@ -3835,7 +3835,7 @@
 "Romance"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 1956,
+"imdb_votes": 1958,
 "wr": 7.225
 },
 {
@@ -3852,8 +3852,8 @@
 "Horror"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 2746,
-"wr": 7.178
+"imdb_votes": 2750,
+"wr": 7.179
 },
 {
 "id": "tt3524290",
@@ -3885,8 +3885,8 @@
 "Drama"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 1608,
-"wr": 7.038
+"imdb_votes": 1612,
+"wr": 7.039
 },
 {
 "id": "tt3569652",
@@ -3901,8 +3901,8 @@
 "Drama"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 963,
-"wr": 7.033
+"imdb_votes": 964,
+"wr": 7.034
 },
 {
 "id": "tt3037162",
@@ -3933,7 +3933,7 @@
 "Horror"
 ],
 "imdb_rating": 6.9,
-"imdb_votes": 1248,
+"imdb_votes": 1249,
 "wr": 6.631
 },
 {
@@ -3966,7 +3966,7 @@
 "Action"
 ],
 "imdb_rating": 6.8,
-"imdb_votes": 1279,
+"imdb_votes": 1280,
 "wr": 6.579
 },
 {
@@ -3982,7 +3982,7 @@
 "Comedy"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 2214,
+"imdb_votes": 2215,
 "wr": 6.574
 },
 {
@@ -4063,7 +4063,7 @@
 "Comedy"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 9581,
+"imdb_votes": 9583,
 "wr": 6.481
 },
 {
@@ -4111,7 +4111,7 @@
 "Drama"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 1309,
+"imdb_votes": 1310,
 "wr": 6.411
 },
 {
@@ -4160,7 +4160,7 @@
 ],
 "imdb_rating": 6.5,
 "imdb_votes": 369,
-"wr": 6.35
+"wr": 6.351
 },
 {
 "id": "tt3982448",
@@ -4223,7 +4223,7 @@
 "Action"
 ],
 "imdb_rating": 6.2,
-"imdb_votes": 562,
+"imdb_votes": 563,
 "wr": 6.261
 },
 {
@@ -4254,7 +4254,7 @@
 "Action"
 ],
 "imdb_rating": 6.2,
-"imdb_votes": 15487,
+"imdb_votes": 15498,
 "wr": 6.206
 },
 {
@@ -4271,7 +4271,7 @@
 "Animation"
 ],
 "imdb_rating": 6.1,
-"imdb_votes": 5632,
+"imdb_votes": 5635,
 "wr": 6.129
 },
 {
@@ -4287,7 +4287,7 @@
 "Action"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 24625,
+"imdb_votes": 24630,
 "wr": 8.318
 },
 {
@@ -4305,7 +4305,7 @@
 "Family"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 9731,
+"imdb_votes": 9732,
 "wr": 8.204
 },
 {
@@ -4313,15 +4313,15 @@
 "tmdb_id": 264038,
 "name": "Kaaka Muttai",
 "year": 2015,
-"poster": "https://image.tmdb.org/t/p/w500/xa8EJVtnxq6rMPBplGuv2BAS1pl.jpg",
+"poster": "https://image.tmdb.org/t/p/w500/9WP1OhafzS1KM7GUhpwkOqBFcRJ.jpg",
 "background": "https://image.tmdb.org/t/p/w1280/8jScsevTSGlYNGGtqvg20YpS9yx.jpg",
 "overview": "Two slum kids yearn to taste a pizza after being enticed by the pizza shop that has opened near their locality. What happens when they manage to find the money to buy one?",
 "genres": [
 "Drama"
 ],
 "imdb_rating": 8.3,
-"imdb_votes": 9412,
-"wr": 8.107
+"imdb_votes": 9414,
+"wr": 8.108
 },
 {
 "id": "tt4806232",
@@ -4337,7 +4337,7 @@
 "Thriller"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 5699,
+"imdb_votes": 5702,
 "wr": 7.746
 },
 {
@@ -4354,7 +4354,7 @@
 "Romance"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 26142,
+"imdb_votes": 26153,
 "wr": 7.359
 },
 {
@@ -4370,7 +4370,7 @@
 "Drama"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 8252,
+"imdb_votes": 8255,
 "wr": 7.281
 },
 {
@@ -4386,7 +4386,7 @@
 "Action"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 11258,
+"imdb_votes": 11261,
 "wr": 7.218
 },
 {
@@ -4419,7 +4419,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 4239,
+"imdb_votes": 4241,
 "wr": 7.108
 },
 {
@@ -4456,8 +4456,8 @@
 "Romance"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 5825,
-"wr": 7.067
+"imdb_votes": 5830,
+"wr": 7.068
 },
 {
 "id": "tt5037912",
@@ -4473,7 +4473,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 2119,
+"imdb_votes": 2120,
 "wr": 7.046
 },
 {
@@ -4506,7 +4506,7 @@
 "Family"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 2119,
+"imdb_votes": 2121,
 "wr": 6.978
 },
 {
@@ -4521,8 +4521,8 @@
 "Horror"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 3917,
-"wr": 6.936
+"imdb_votes": 3921,
+"wr": 6.937
 },
 {
 "id": "tt17508126",
@@ -4538,8 +4538,8 @@
 "Comedy"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 554,
-"wr": 6.796
+"imdb_votes": 555,
+"wr": 6.797
 },
 {
 "id": "tt4937812",
@@ -4589,7 +4589,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 4545,
+"imdb_votes": 4549,
 "wr": 6.627
 },
 {
@@ -4637,7 +4637,7 @@
 "Action"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 6289,
+"imdb_votes": 6298,
 "wr": 6.472
 },
 {
@@ -4684,7 +4684,7 @@
 "Action"
 ],
 "imdb_rating": 6.4,
-"imdb_votes": 9554,
+"imdb_votes": 9561,
 "wr": 6.39
 },
 {
@@ -4716,7 +4716,7 @@
 "Action"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 716,
+"imdb_votes": 717,
 "wr": 6.297
 },
 {
@@ -4733,7 +4733,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.1,
-"imdb_votes": 1216,
+"imdb_votes": 1217,
 "wr": 6.188
 },
 {
@@ -4768,7 +4768,7 @@
 "Mystery"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 19417,
+"imdb_votes": 19421,
 "wr": 8.012
 },
 {
@@ -4800,7 +4800,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 27527,
+"imdb_votes": 27548,
 "wr": 7.844
 },
 {
@@ -4818,7 +4818,7 @@
 "Romance"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 4241,
+"imdb_votes": 4245,
 "wr": 7.675
 },
 {
@@ -4835,7 +4835,7 @@
 "Romance"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 3568,
+"imdb_votes": 3570,
 "wr": 7.627
 },
 {
@@ -4850,7 +4850,7 @@
 "Drama"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 13084,
+"imdb_votes": 13086,
 "wr": 7.507
 },
 {
@@ -4866,8 +4866,8 @@
 "Action"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 2918,
-"wr": 7.49
+"imdb_votes": 2920,
+"wr": 7.491
 },
 {
 "id": "tt5440700",
@@ -4883,7 +4883,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 27087,
+"imdb_votes": 27109,
 "wr": 7.361
 },
 {
@@ -4900,7 +4900,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 3123,
+"imdb_votes": 3127,
 "wr": 7.284
 },
 {
@@ -4917,7 +4917,7 @@
 "Romance"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 4426,
+"imdb_votes": 4428,
 "wr": 7.278
 },
 {
@@ -4932,7 +4932,7 @@
 "Drama"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 1567,
+"imdb_votes": 1568,
 "wr": 7.275
 },
 {
@@ -4949,8 +4949,8 @@
 "Drama"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 2511,
-"wr": 7.228
+"imdb_votes": 2512,
+"wr": 7.229
 },
 {
 "id": "tt5934894",
@@ -4965,7 +4965,7 @@
 "Romance"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 2844,
+"imdb_votes": 2848,
 "wr": 7.187
 },
 {
@@ -4981,7 +4981,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 3688,
+"imdb_votes": 3691,
 "wr": 6.928
 },
 {
@@ -5015,7 +5015,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.9,
-"imdb_votes": 2007,
+"imdb_votes": 2008,
 "wr": 6.699
 },
 {
@@ -5032,7 +5032,7 @@
 "Crime"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 948,
+"imdb_votes": 949,
 "wr": 6.687
 },
 {
@@ -5048,8 +5048,8 @@
 "Drama"
 ],
 "imdb_rating": 6.9,
-"imdb_votes": 1600,
-"wr": 6.667
+"imdb_votes": 1601,
+"wr": 6.668
 },
 {
 "id": "tt6317052",
@@ -5064,7 +5064,7 @@
 "Romance"
 ],
 "imdb_rating": 6.9,
-"imdb_votes": 1489,
+"imdb_votes": 1490,
 "wr": 6.657
 },
 {
@@ -5081,7 +5081,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 3868,
+"imdb_votes": 3872,
 "wr": 6.617
 },
 {
@@ -5148,7 +5148,7 @@
 "Action"
 ],
 "imdb_rating": 6.8,
-"imdb_votes": 325,
+"imdb_votes": 326,
 "wr": 6.419
 },
 {
@@ -5165,7 +5165,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 1371,
+"imdb_votes": 1373,
 "wr": 6.414
 },
 {
@@ -5199,7 +5199,7 @@
 "Mystery"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 4879,
+"imdb_votes": 4880,
 "wr": 6.299
 },
 {
@@ -5215,7 +5215,7 @@
 "Romance"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 2747,
+"imdb_votes": 2750,
 "wr": 6.299
 },
 {
@@ -5265,7 +5265,7 @@
 "Horror"
 ],
 "imdb_rating": 6.2,
-"imdb_votes": 1322,
+"imdb_votes": 1324,
 "wr": 6.241
 },
 {
@@ -5297,7 +5297,7 @@
 "Romance"
 ],
 "imdb_rating": 6.2,
-"imdb_votes": 5051,
+"imdb_votes": 5059,
 "wr": 6.216
 },
 {
@@ -5330,7 +5330,7 @@
 "Drama"
 ],
 "imdb_rating": 6.1,
-"imdb_votes": 15826,
+"imdb_votes": 15834,
 "wr": 6.112
 },
 {
@@ -5345,7 +5345,7 @@
 "Drama"
 ],
 "imdb_rating": 8.3,
-"imdb_votes": 15291,
+"imdb_votes": 15294,
 "wr": 8.177
 },
 {
@@ -5363,7 +5363,7 @@
 "Adventure"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 56512,
+"imdb_votes": 56537,
 "wr": 8.167
 },
 {
@@ -5379,7 +5379,7 @@
 "Thriller"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 20113,
+"imdb_votes": 20125,
 "wr": 8.11
 },
 {
@@ -5387,7 +5387,7 @@
 "tmdb_id": 412096,
 "name": "Maanagaram",
 "year": 2017,
-"poster": "https://image.tmdb.org/t/p/w500/vZjFz8O1xy8TSe6EGNsLtUzA1DZ.jpg",
+"poster": "https://image.tmdb.org/t/p/w500/pF3F5J1gMV56Bwtp5PQrHSmL3mN.jpg",
 "background": "https://image.tmdb.org/t/p/w1280/affYr5pL3tyVzqmJTb26Ir6csqv.jpg",
 "overview": "Upon moving to Chennai, four lives get intertwined as they strive to achieve success in the city. However, when a vicious gangster threatens them, the group must work together to defeat him.",
 "genres": [
@@ -5395,7 +5395,7 @@
 "Action"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 9055,
+"imdb_votes": 9059,
 "wr": 7.921
 },
 {
@@ -5412,7 +5412,7 @@
 "Crime"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 42871,
+"imdb_votes": 42901,
 "wr": 7.473
 },
 {
@@ -5429,7 +5429,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 6340,
+"imdb_votes": 6344,
 "wr": 7.422
 },
 {
@@ -5447,7 +5447,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 2534,
+"imdb_votes": 2535,
 "wr": 7.374
 },
 {
@@ -5464,7 +5464,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 3437,
+"imdb_votes": 3444,
 "wr": 7.306
 },
 {
@@ -5481,24 +5481,7 @@
 ],
 "imdb_rating": 7.6,
 "imdb_votes": 2140,
-"wr": 7.184
-},
-{
-"id": "tt6747242",
-"tmdb_id": 450496,
-"name": "8 Thottakkal",
-"year": 2017,
-"poster": "https://image.tmdb.org/t/p/w500/3pGHKLYVj8QTcDFgvrHIRJAnneU.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/5xk4z2MbylnkDq1CfnujQ2xGuBa.jpg",
-"overview": "A cop’s pistol gets stolen and even as the search for it gets underway, it ends up in the hands of someone who uses it to rob a bank.",
-"genres": [
-"Thriller",
-"Action",
-"Crime"
-],
-"imdb_rating": 7.5,
-"imdb_votes": 2599,
-"wr": 7.165
+"wr": 7.185
 },
 {
 "id": "tt6734886",
@@ -5514,7 +5497,24 @@
 "Action"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 2598,
+"imdb_votes": 2601,
+"wr": 7.093
+},
+{
+"id": "tt6747242",
+"tmdb_id": 450496,
+"name": "8 Thottakkal",
+"year": 2017,
+"poster": "https://image.tmdb.org/t/p/w500/3pGHKLYVj8QTcDFgvrHIRJAnneU.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/5xk4z2MbylnkDq1CfnujQ2xGuBa.jpg",
+"overview": "A cop’s pistol gets stolen and even as the search for it gets underway, it ends up in the hands of someone who uses it to rob a bank.",
+"genres": [
+"Thriller",
+"Action",
+"Crime"
+],
+"imdb_rating": 7.4,
+"imdb_votes": 2600,
 "wr": 7.093
 },
 {
@@ -5547,7 +5547,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 5468,
+"imdb_votes": 5472,
 "wr": 7.06
 },
 {
@@ -5564,7 +5564,7 @@
 "Action"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 4592,
+"imdb_votes": 4596,
 "wr": 7.038
 },
 {
@@ -5580,7 +5580,7 @@
 "Romance"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 2003,
+"imdb_votes": 2004,
 "wr": 7.032
 },
 {
@@ -5596,7 +5596,7 @@
 "Drama"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 3088,
+"imdb_votes": 3091,
 "wr": 6.903
 },
 {
@@ -5628,7 +5628,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 1361,
+"imdb_votes": 1363,
 "wr": 6.817
 },
 {
@@ -5645,7 +5645,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 2373,
+"imdb_votes": 2375,
 "wr": 6.791
 },
 {
@@ -5660,24 +5660,8 @@
 "Drama"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 1054,
+"imdb_votes": 1055,
 "wr": 6.76
-},
-{
-"id": "tt6642814",
-"tmdb_id": 409159,
-"name": "Kadugu",
-"year": 2017,
-"poster": "https://image.tmdb.org/t/p/w500/bVQGcJA0J4aaalYssj5GAG4LbIC.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/3PoMjec55H5oHyU7e8tYHaxF9Nv.jpg",
-"overview": "A common man wages war against an influential personality to seek justice for a 14-year-old girl molested by a corrupt politician.",
-"genres": [
-"Comedy",
-"Drama"
-],
-"imdb_rating": 7.4,
-"imdb_votes": 583,
-"wr": 6.702
 },
 {
 "id": "tt6998574",
@@ -5695,6 +5679,22 @@
 "wr": 6.693
 },
 {
+"id": "tt6642814",
+"tmdb_id": 409159,
+"name": "Kadugu",
+"year": 2017,
+"poster": "https://image.tmdb.org/t/p/w500/bVQGcJA0J4aaalYssj5GAG4LbIC.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/3PoMjec55H5oHyU7e8tYHaxF9Nv.jpg",
+"overview": "A common man wages war against an influential personality to seek justice for a 14-year-old girl molested by a corrupt politician.",
+"genres": [
+"Comedy",
+"Drama"
+],
+"imdb_rating": 7.3,
+"imdb_votes": 584,
+"wr": 6.666
+},
+{
 "id": "tt6998596",
 "tmdb_id": 412991,
 "name": "Rangoon",
@@ -5708,7 +5708,7 @@
 "Action"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 784,
+"imdb_votes": 785,
 "wr": 6.605
 },
 {
@@ -5724,7 +5724,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 3111,
+"imdb_votes": 3112,
 "wr": 6.602
 },
 {
@@ -5824,8 +5824,24 @@
 "Crime"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 12723,
+"imdb_votes": 12728,
 "wr": 6.3
+},
+{
+"id": "tt6567396",
+"tmdb_id": 383703,
+"name": "Yaman",
+"year": 2017,
+"poster": "https://image.tmdb.org/t/p/w500/77fTcQEdfgZ3LOMS062uGZUydYi.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/tlTe1zCPcApPqWpeeYCWt6515Oa.jpg",
+"overview": "In a malicious world of ruthless politicians and gangsters, a common man develops a dream to make it big in politics and takes on a few big shots.",
+"genres": [
+"Action",
+"Thriller"
+],
+"imdb_rating": 6.3,
+"imdb_votes": 639,
+"wr": 6.297
 },
 {
 "id": "tt7080686",
@@ -5891,23 +5907,7 @@
 ],
 "imdb_rating": 6.3,
 "imdb_votes": 321,
-"wr": 6.296
-},
-{
-"id": "tt6567396",
-"tmdb_id": 383703,
-"name": "Yaman",
-"year": 2017,
-"poster": "https://image.tmdb.org/t/p/w500/77fTcQEdfgZ3LOMS062uGZUydYi.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/tlTe1zCPcApPqWpeeYCWt6515Oa.jpg",
-"overview": "In a malicious world of ruthless politicians and gangsters, a common man develops a dream to make it big in politics and takes on a few big shots.",
-"genres": [
-"Action",
-"Thriller"
-],
-"imdb_rating": 6.2,
-"imdb_votes": 638,
-"wr": 6.258
+"wr": 6.297
 },
 {
 "id": "tt6878378",
@@ -5922,7 +5922,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.1,
-"imdb_votes": 17979,
+"imdb_votes": 17985,
 "wr": 6.11
 },
 {
@@ -5938,7 +5938,7 @@
 "Drama"
 ],
 "imdb_rating": 8.6,
-"imdb_votes": 20901,
+"imdb_votes": 20904,
 "wr": 8.495
 },
 {
@@ -5953,7 +5953,7 @@
 "Romance"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 47129,
+"imdb_votes": 47161,
 "wr": 8.356
 },
 {
@@ -5970,8 +5970,8 @@
 "Thriller"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 25134,
-"wr": 8.319
+"imdb_votes": 25148,
+"wr": 8.32
 },
 {
 "id": "tt7060344",
@@ -5987,7 +5987,7 @@
 "Mystery"
 ],
 "imdb_rating": 8.3,
-"imdb_votes": 61710,
+"imdb_votes": 61745,
 "wr": 8.268
 },
 {
@@ -6018,7 +6018,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 6378,
+"imdb_votes": 6381,
 "wr": 7.423
 },
 {
@@ -6034,7 +6034,7 @@
 "Family"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 4748,
+"imdb_votes": 4750,
 "wr": 7.373
 },
 {
@@ -6068,7 +6068,7 @@
 "Crime"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 7042,
+"imdb_votes": 7046,
 "wr": 7.175
 },
 {
@@ -6084,7 +6084,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 4185,
+"imdb_votes": 4187,
 "wr": 7.106
 },
 {
@@ -6101,7 +6101,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 7579,
+"imdb_votes": 7580,
 "wr": 7.006
 },
 {
@@ -6168,7 +6168,7 @@
 ],
 "imdb_rating": 6.9,
 "imdb_votes": 4842,
-"wr": 6.796
+"wr": 6.797
 },
 {
 "id": "tt8303588",
@@ -6184,7 +6184,7 @@
 ],
 "imdb_rating": 7.2,
 "imdb_votes": 848,
-"wr": 6.71
+"wr": 6.711
 },
 {
 "id": "tt7715202",
@@ -6199,7 +6199,7 @@
 "Drama"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 24284,
+"imdb_votes": 24301,
 "wr": 6.684
 },
 {
@@ -6231,7 +6231,7 @@
 "Family"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 659,
+"imdb_votes": 660,
 "wr": 6.615
 },
 {
@@ -6249,7 +6249,7 @@
 "Action"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 3331,
+"imdb_votes": 3334,
 "wr": 6.607
 },
 {
@@ -6298,7 +6298,7 @@
 "Drama"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 11803,
+"imdb_votes": 11807,
 "wr": 6.484
 },
 {
@@ -6316,7 +6316,7 @@
 ],
 "imdb_rating": 6.6,
 "imdb_votes": 898,
-"wr": 6.439
+"wr": 6.44
 },
 {
 "id": "tt7329602",
@@ -6330,7 +6330,7 @@
 "Comedy"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 1979,
+"imdb_votes": 1981,
 "wr": 6.431
 },
 {
@@ -6413,7 +6413,7 @@
 "Comedy"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 6937,
+"imdb_votes": 6943,
 "wr": 6.299
 },
 {
@@ -6477,7 +6477,7 @@
 "Drama"
 ],
 "imdb_rating": 6.2,
-"imdb_votes": 3845,
+"imdb_votes": 3849,
 "wr": 6.22
 },
 {
@@ -6510,7 +6510,7 @@
 "Crime"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 53416,
+"imdb_votes": 53462,
 "wr": 8.361
 },
 {
@@ -6526,7 +6526,7 @@
 "Drama"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 38069,
+"imdb_votes": 38081,
 "wr": 8.346
 },
 {
@@ -6544,7 +6544,7 @@
 "Crime"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 20557,
+"imdb_votes": 20567,
 "wr": 8.112
 },
 {
@@ -6561,7 +6561,7 @@
 "Thriller"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 10206,
+"imdb_votes": 10210,
 "wr": 7.939
 },
 {
@@ -6609,7 +6609,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 11471,
+"imdb_votes": 11472,
 "wr": 7.587
 },
 {
@@ -6625,7 +6625,7 @@
 "Romance"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 2236,
+"imdb_votes": 2237,
 "wr": 7.404
 },
 {
@@ -6642,7 +6642,7 @@
 "Crime"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 2826,
+"imdb_votes": 2827,
 "wr": 7.259
 },
 {
@@ -6658,7 +6658,7 @@
 "Drama"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 2106,
+"imdb_votes": 2107,
 "wr": 7.248
 },
 {
@@ -6673,7 +6673,7 @@
 "Action"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 15521,
+"imdb_votes": 15547,
 "wr": 7.145
 },
 {
@@ -6720,7 +6720,7 @@
 "Drama"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 15402,
+"imdb_votes": 15408,
 "wr": 7.051
 },
 {
@@ -6770,7 +6770,7 @@
 "Drama"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 5227,
+"imdb_votes": 5232,
 "wr": 6.887
 },
 {
@@ -6785,7 +6785,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 2404,
+"imdb_votes": 2406,
 "wr": 6.864
 },
 {
@@ -6819,7 +6819,7 @@
 "Horror"
 ],
 "imdb_rating": 6.9,
-"imdb_votes": 9088,
+"imdb_votes": 9090,
 "wr": 6.84
 },
 {
@@ -6887,7 +6887,7 @@
 "Family"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 27813,
+"imdb_votes": 27851,
 "wr": 6.686
 },
 {
@@ -6903,8 +6903,8 @@
 "Drama"
 ],
 "imdb_rating": 6.9,
-"imdb_votes": 1778,
-"wr": 6.682
+"imdb_votes": 1780,
+"wr": 6.683
 },
 {
 "id": "tt9665400",
@@ -6966,7 +6966,7 @@
 "Action"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 3086,
+"imdb_votes": 3087,
 "wr": 6.601
 },
 {
@@ -7060,8 +7060,8 @@
 "Crime"
 ],
 "imdb_rating": 6.6,
-"imdb_votes": 1707,
-"wr": 6.487
+"imdb_votes": 1709,
+"wr": 6.488
 },
 {
 "id": "tt8458736",
@@ -7075,7 +7075,7 @@
 "Action"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 1648,
+"imdb_votes": 1649,
 "wr": 6.423
 },
 {
@@ -7090,7 +7090,7 @@
 "Drama"
 ],
 "imdb_rating": 6.4,
-"imdb_votes": 1393,
+"imdb_votes": 1395,
 "wr": 6.356
 },
 {
@@ -7123,7 +7123,7 @@
 "Action"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 3030,
+"imdb_votes": 3035,
 "wr": 6.299
 },
 {
@@ -7172,7 +7172,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.2,
-"imdb_votes": 7137,
+"imdb_votes": 7145,
 "wr": 6.212
 },
 {
@@ -7188,7 +7188,7 @@
 "Romance"
 ],
 "imdb_rating": 6.1,
-"imdb_votes": 1393,
+"imdb_votes": 1394,
 "wr": 6.182
 },
 {
@@ -7238,7 +7238,7 @@
 "Action"
 ],
 "imdb_rating": 8.6,
-"imdb_votes": 133529,
+"imdb_votes": 133557,
 "wr": 8.583
 },
 {
@@ -7254,8 +7254,8 @@
 "Romance"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 6357,
-"wr": 7.768
+"imdb_votes": 6364,
+"wr": 7.769
 },
 {
 "id": "tt8042292",
@@ -7271,7 +7271,7 @@
 "Drama"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 9332,
+"imdb_votes": 9339,
 "wr": 7.474
 },
 {
@@ -7286,7 +7286,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 4385,
+"imdb_votes": 4387,
 "wr": 7.276
 },
 {
@@ -7301,7 +7301,7 @@
 "Drama"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 2250,
+"imdb_votes": 2251,
 "wr": 6.922
 },
 {
@@ -7317,7 +7317,7 @@
 "Family"
 ],
 "imdb_rating": 6.8,
-"imdb_votes": 1917,
+"imdb_votes": 1918,
 "wr": 6.627
 },
 {
@@ -7349,8 +7349,8 @@
 "Drama"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 3327,
-"wr": 6.606
+"imdb_votes": 3328,
+"wr": 6.607
 },
 {
 "id": "tt11311958",
@@ -7365,7 +7365,7 @@
 "Fantasy"
 ],
 "imdb_rating": 6.6,
-"imdb_votes": 5252,
+"imdb_votes": 5259,
 "wr": 6.551
 },
 {
@@ -7427,8 +7427,8 @@
 "Comedy"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 4054,
-"wr": 6.459
+"imdb_votes": 4059,
+"wr": 6.46
 },
 {
 "id": "tt7533410",
@@ -7525,7 +7525,7 @@
 "History"
 ],
 "imdb_rating": 8.6,
-"imdb_votes": 237450,
+"imdb_votes": 237502,
 "wr": 8.59
 },
 {
@@ -7542,7 +7542,7 @@
 "Drama"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 29263,
+"imdb_votes": 29266,
 "wr": 8.33
 },
 {
@@ -7573,7 +7573,7 @@
 "Drama"
 ],
 "imdb_rating": 8.3,
-"imdb_votes": 10144,
+"imdb_votes": 10149,
 "wr": 8.12
 },
 {
@@ -7590,8 +7590,8 @@
 "Science Fiction"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 28333,
-"wr": 8.038
+"imdb_votes": 28345,
+"wr": 8.039
 },
 {
 "id": "tt11581174",
@@ -7606,7 +7606,7 @@
 "Action"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 25457,
+"imdb_votes": 25460,
 "wr": 7.936
 },
 {
@@ -7622,7 +7622,7 @@
 "Comedy"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 2366,
+"imdb_votes": 2367,
 "wr": 7.494
 },
 {
@@ -7638,7 +7638,7 @@
 "Drama"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 92196,
+"imdb_votes": 92248,
 "wr": 7.388
 },
 {
@@ -7655,7 +7655,7 @@
 "Action"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 22328,
+"imdb_votes": 22349,
 "wr": 7.353
 },
 {
@@ -7670,8 +7670,8 @@
 "Drama"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 4488,
-"wr": 7.28
+"imdb_votes": 4491,
+"wr": 7.281
 },
 {
 "id": "tt11772600",
@@ -7750,7 +7750,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 1698,
+"imdb_votes": 1699,
 "wr": 6.991
 },
 {
@@ -7782,7 +7782,7 @@
 "Science Fiction"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 4098,
+"imdb_votes": 4099,
 "wr": 6.942
 },
 {
@@ -7799,7 +7799,7 @@
 "Crime"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 3113,
+"imdb_votes": 3115,
 "wr": 6.904
 },
 {
@@ -7831,7 +7831,7 @@
 "Drama"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 1431,
+"imdb_votes": 1432,
 "wr": 6.828
 },
 {
@@ -7960,7 +7960,7 @@
 "Mystery"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 3978,
+"imdb_votes": 3979,
 "wr": 6.459
 },
 {
@@ -8107,7 +8107,7 @@
 "Adventure"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 3716,
+"imdb_votes": 3717,
 "wr": 6.299
 },
 {
@@ -8155,7 +8155,7 @@
 "Romance"
 ],
 "imdb_rating": 6.2,
-"imdb_votes": 5349,
+"imdb_votes": 5351,
 "wr": 6.215
 },
 {
@@ -8171,7 +8171,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.1,
-"imdb_votes": 5409,
+"imdb_votes": 5410,
 "wr": 6.13
 },
 {
@@ -8187,7 +8187,7 @@
 "History"
 ],
 "imdb_rating": 8.6,
-"imdb_votes": 62993,
+"imdb_votes": 63006,
 "wr": 8.564
 },
 {
@@ -8196,13 +8196,13 @@
 "name": "Kadaisi Vivasayi",
 "year": 2022,
 "poster": "https://image.tmdb.org/t/p/w500/8TNnEojAEc8Kt6HMWgQNRPcL9J3.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/nTFleA0vJNfphRaurvDoItnzTkr.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/fpmRRiMcatplfCgbjzmWjGAWLrH.jpg",
 "overview": "Maayandi, the only farmer in a village that has abandoned farming, is charged with a petty case that leads to his imprisonment.",
 "genres": [
 "Drama"
 ],
 "imdb_rating": 8.7,
-"imdb_votes": 11405,
+"imdb_votes": 11409,
 "wr": 8.506
 },
 {
@@ -8219,7 +8219,7 @@
 "Thriller"
 ],
 "imdb_rating": 8.3,
-"imdb_votes": 92019,
+"imdb_votes": 92089,
 "wr": 8.278
 },
 {
@@ -8235,7 +8235,7 @@
 "Romance"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 19016,
+"imdb_votes": 19024,
 "wr": 7.915
 },
 {
@@ -8251,7 +8251,7 @@
 "Thriller"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 8704,
+"imdb_votes": 8714,
 "wr": 7.914
 },
 {
@@ -8268,7 +8268,7 @@
 "Romance"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 19468,
+"imdb_votes": 19485,
 "wr": 7.822
 },
 {
@@ -8283,7 +8283,7 @@
 "Drama"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 3798,
+"imdb_votes": 3800,
 "wr": 7.724
 },
 {
@@ -8300,7 +8300,7 @@
 "Drama"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 19880,
+"imdb_votes": 19886,
 "wr": 7.633
 },
 {
@@ -8315,7 +8315,7 @@
 "Drama"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 4311,
+"imdb_votes": 4312,
 "wr": 7.598
 },
 {
@@ -8332,7 +8332,7 @@
 "History"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 39020,
+"imdb_votes": 39029,
 "wr": 7.47
 },
 {
@@ -8349,7 +8349,7 @@
 "Science Fiction"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 3564,
+"imdb_votes": 3566,
 "wr": 7.47
 },
 {
@@ -8365,7 +8365,7 @@
 "Action"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 9260,
+"imdb_votes": 9266,
 "wr": 7.292
 },
 {
@@ -8380,8 +8380,8 @@
 "Drama"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 1295,
-"wr": 7.257
+"imdb_votes": 1296,
+"wr": 7.258
 },
 {
 "id": "tt14182646",
@@ -8397,7 +8397,7 @@
 "Crime"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 8701,
+"imdb_votes": 8705,
 "wr": 7.196
 },
 {
@@ -8413,7 +8413,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 2210,
+"imdb_votes": 2212,
 "wr": 7.194
 },
 {
@@ -8431,7 +8431,7 @@
 "Romance"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 4164,
+"imdb_votes": 4166,
 "wr": 7.186
 },
 {
@@ -8461,8 +8461,8 @@
 "Romance"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 3749,
-"wr": 7.009
+"imdb_votes": 3750,
+"wr": 7.01
 },
 {
 "id": "tt15568760",
@@ -8478,7 +8478,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 2395,
+"imdb_votes": 2396,
 "wr": 7.004
 },
 {
@@ -8494,7 +8494,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 2813,
+"imdb_votes": 2815,
 "wr": 6.963
 },
 {
@@ -8543,7 +8543,7 @@
 "Romance"
 ],
 "imdb_rating": 6.8,
-"imdb_votes": 13179,
+"imdb_votes": 13189,
 "wr": 6.764
 },
 {
@@ -8563,6 +8563,23 @@
 "wr": 6.634
 },
 {
+"id": "tt15097236",
+"tmdb_id": 856007,
+"name": "Natchathiram Nagargiradhu",
+"year": 2022,
+"poster": "https://image.tmdb.org/t/p/w500/un3wdT8dfRXcGgxSUwTrGwy4Y2F.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/ha6a3s9vguVSRyE2Yc8m3bqaqfB.jpg",
+"overview": "Love and politics collide when modern day individuals working as theatre artists in fall in love while making a play about love. They realize that it's the social structure that determines their values and thoughts, and for their love to succeed, they have to go against it.",
+"genres": [
+"Romance",
+"Drama",
+"Comedy"
+],
+"imdb_rating": 6.8,
+"imdb_votes": 1837,
+"wr": 6.622
+},
+{
 "id": "tt15115714",
 "tmdb_id": 927602,
 "name": "Veetla Vishesham",
@@ -8577,23 +8594,6 @@
 "imdb_rating": 6.9,
 "imdb_votes": 1140,
 "wr": 6.617
-},
-{
-"id": "tt15097236",
-"tmdb_id": 856007,
-"name": "Natchathiram Nagargiradhu",
-"year": 2022,
-"poster": "https://image.tmdb.org/t/p/w500/un3wdT8dfRXcGgxSUwTrGwy4Y2F.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/ha6a3s9vguVSRyE2Yc8m3bqaqfB.jpg",
-"overview": "Love and politics collide when modern day individuals working as theatre artists in fall in love while making a play about love. They realize that it's the social structure that determines their values and thoughts, and for their love to succeed, they have to go against it.",
-"genres": [
-"Romance",
-"Drama",
-"Comedy"
-],
-"imdb_rating": 6.7,
-"imdb_votes": 1836,
-"wr": 6.557
 },
 {
 "id": "tt21917050",
@@ -8623,8 +8623,8 @@
 "Drama"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 461,
-"wr": 6.549
+"imdb_votes": 462,
+"wr": 6.55
 },
 {
 "id": "tt15097330",
@@ -8639,7 +8639,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.6,
-"imdb_votes": 1700,
+"imdb_votes": 1701,
 "wr": 6.487
 },
 {
@@ -8672,7 +8672,7 @@
 "Mystery"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 4282,
+"imdb_votes": 4283,
 "wr": 6.461
 },
 {
@@ -8688,8 +8688,8 @@
 "Drama"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 3704,
-"wr": 6.456
+"imdb_votes": 3709,
+"wr": 6.457
 },
 {
 "id": "tt23897366",
@@ -8707,22 +8707,6 @@
 "wr": 6.454
 },
 {
-"id": "tt11731024",
-"tmdb_id": 817194,
-"name": "Iravin Nizhal",
-"year": 2022,
-"poster": "https://image.tmdb.org/t/p/w500/6wuyQ6rmDoHdorGO2wrmxPclqgW.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/6PwUZXVT28l6scy83TPIGGcXNoK.jpg",
-"overview": "A man on the run looks back on his crime-filled life, the people who have shaped it up, his sins and his one last hope at redemption.",
-"genres": [
-"Drama",
-"Thriller"
-],
-"imdb_rating": 6.5,
-"imdb_votes": 2035,
-"wr": 6.433
-},
-{
 "id": "tt20205172",
 "tmdb_id": 974466,
 "name": "Anel Meley Pani Thuli",
@@ -8736,6 +8720,22 @@
 ],
 "imdb_rating": 6.8,
 "imdb_votes": 376,
+"wr": 6.433
+},
+{
+"id": "tt11731024",
+"tmdb_id": 817194,
+"name": "Iravin Nizhal",
+"year": 2022,
+"poster": "https://image.tmdb.org/t/p/w500/6wuyQ6rmDoHdorGO2wrmxPclqgW.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/6PwUZXVT28l6scy83TPIGGcXNoK.jpg",
+"overview": "A man on the run looks back on his crime-filled life, the people who have shaped it up, his sins and his one last hope at redemption.",
+"genres": [
+"Drama",
+"Thriller"
+],
+"imdb_rating": 6.5,
+"imdb_votes": 2035,
 "wr": 6.433
 },
 {
@@ -8782,7 +8782,7 @@
 "Drama"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 377,
+"imdb_votes": 378,
 "wr": 6.406
 },
 {
@@ -8799,7 +8799,7 @@
 "Family"
 ],
 "imdb_rating": 6.4,
-"imdb_votes": 14303,
+"imdb_votes": 14308,
 "wr": 6.393
 },
 {
@@ -8815,7 +8815,7 @@
 "Romance"
 ],
 "imdb_rating": 6.4,
-"imdb_votes": 5930,
+"imdb_votes": 5935,
 "wr": 6.385
 },
 {
@@ -8895,8 +8895,8 @@
 "Drama"
 ],
 "imdb_rating": 6.4,
-"imdb_votes": 818,
-"wr": 6.342
+"imdb_votes": 819,
+"wr": 6.343
 },
 {
 "id": "tt23709864",
@@ -8992,7 +8992,7 @@
 "Mystery"
 ],
 "imdb_rating": 8.2,
-"imdb_votes": 9841,
+"imdb_votes": 9846,
 "wr": 8.024
 },
 {
@@ -9009,7 +9009,7 @@
 "Drama"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 12374,
+"imdb_votes": 12379,
 "wr": 7.965
 },
 {
@@ -9026,7 +9026,7 @@
 "Romance"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 8651,
+"imdb_votes": 8655,
 "wr": 7.913
 },
 {
@@ -9043,8 +9043,8 @@
 "Action"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 13749,
-"wr": 7.884
+"imdb_votes": 13763,
+"wr": 7.885
 },
 {
 "id": "tt24226474",
@@ -9060,7 +9060,7 @@
 "Comedy"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 12296,
+"imdb_votes": 12304,
 "wr": 7.872
 },
 {
@@ -9093,7 +9093,7 @@
 "Drama"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 3724,
+"imdb_votes": 3726,
 "wr": 7.718
 },
 {
@@ -9109,7 +9109,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 14267,
+"imdb_votes": 14272,
 "wr": 7.701
 },
 {
@@ -9125,7 +9125,7 @@
 "Drama"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 6245,
+"imdb_votes": 6253,
 "wr": 7.506
 },
 {
@@ -9143,7 +9143,7 @@
 "Fantasy"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 11986,
+"imdb_votes": 11998,
 "wr": 7.315
 },
 {
@@ -9159,7 +9159,7 @@
 "Action"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 12293,
+"imdb_votes": 12305,
 "wr": 7.224
 },
 {
@@ -9176,7 +9176,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 75713,
+"imdb_votes": 75782,
 "wr": 7.188
 },
 {
@@ -9192,7 +9192,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 48959,
+"imdb_votes": 49242,
 "wr": 7.182
 },
 {
@@ -9210,7 +9210,7 @@
 "Drama"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 20188,
+"imdb_votes": 20195,
 "wr": 7.157
 },
 {
@@ -9226,7 +9226,7 @@
 "Drama"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 3476,
+"imdb_votes": 3478,
 "wr": 7.153
 },
 {
@@ -9243,7 +9243,7 @@
 "Drama"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 3310,
+"imdb_votes": 3312,
 "wr": 6.99
 },
 {
@@ -9271,7 +9271,7 @@
 "Drama"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 4405,
+"imdb_votes": 4406,
 "wr": 6.951
 },
 {
@@ -9303,7 +9303,7 @@
 "Action"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 4080,
+"imdb_votes": 4081,
 "wr": 6.861
 },
 {
@@ -9400,7 +9400,7 @@
 "Drama"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 1589,
+"imdb_votes": 1590,
 "wr": 6.728
 },
 {
@@ -9417,7 +9417,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.9,
-"imdb_votes": 1974,
+"imdb_votes": 1976,
 "wr": 6.697
 },
 {
@@ -9449,7 +9449,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 6495,
+"imdb_votes": 6498,
 "wr": 6.646
 },
 {
@@ -9465,8 +9465,8 @@
 "Family"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 403,
-"wr": 6.641
+"imdb_votes": 404,
+"wr": 6.642
 },
 {
 "id": "tt27610443",
@@ -9481,7 +9481,7 @@
 "Comedy"
 ],
 "imdb_rating": 6.8,
-"imdb_votes": 1822,
+"imdb_votes": 1824,
 "wr": 6.621
 },
 {
@@ -9514,7 +9514,7 @@
 "Drama"
 ],
 "imdb_rating": 6.6,
-"imdb_votes": 10431,
+"imdb_votes": 10433,
 "wr": 6.573
 },
 {
@@ -9531,7 +9531,7 @@
 "Comedy"
 ],
 "imdb_rating": 6.6,
-"imdb_votes": 6669,
+"imdb_votes": 6675,
 "wr": 6.56
 },
 {
@@ -9562,7 +9562,7 @@
 "Drama"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 1276,
+"imdb_votes": 1277,
 "wr": 6.522
 },
 {
@@ -9656,7 +9656,7 @@
 ],
 "imdb_rating": 6.6,
 "imdb_votes": 345,
-"wr": 6.373
+"wr": 6.374
 },
 {
 "id": "tt16751974",
@@ -9672,24 +9672,7 @@
 ],
 "imdb_rating": 6.5,
 "imdb_votes": 369,
-"wr": 6.35
-},
-{
-"id": "tt15029754",
-"tmdb_id": 893514,
-"name": "Paayum Oli Nee Yenakku",
-"year": 2023,
-"poster": "https://image.tmdb.org/t/p/w500/wR07XZNsWmPGFvitMN1zSk7gFbk.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/kNoCrVHYHW5iUZENNDuTs0Cj83B.jpg",
-"overview": "A man with partial blindness embarks on a journey to solve the mystery behind his father's death and uncovers a sinister political conspiracy.",
-"genres": [
-"Thriller",
-"Romance",
-"Action"
-],
-"imdb_rating": 6.4,
-"imdb_votes": 857,
-"wr": 6.344
+"wr": 6.351
 },
 {
 "id": "tt27236842",
@@ -9741,6 +9724,22 @@
 "wr": 6.299
 },
 {
+"id": "tt24067680",
+"tmdb_id": 1061597,
+"name": "Run Baby Run",
+"year": 2023,
+"poster": "https://image.tmdb.org/t/p/w500/ea8IuI1vB8qcrH6MKPu9FP0Xtbh.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/1ffhek5LfLX1FC7iJ9YIaEvMPRP.jpg",
+"overview": "A bank employee encounters a stranger girl inside his car on his way home from work. Little did he know the girl's presence would put his life in trouble.",
+"genres": [
+"Thriller",
+"Action"
+],
+"imdb_rating": 6.3,
+"imdb_votes": 1667,
+"wr": 6.298
+},
+{
 "id": "tt27618123",
 "tmdb_id": 1118801,
 "name": "Adiyae!",
@@ -9754,23 +9753,24 @@
 "Comedy"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 1426,
+"imdb_votes": 1427,
 "wr": 6.298
 },
 {
-"id": "tt24067680",
-"tmdb_id": 1061597,
-"name": "Run Baby Run",
+"id": "tt15029754",
+"tmdb_id": 893514,
+"name": "Paayum Oli Nee Yenakku",
 "year": 2023,
-"poster": "https://image.tmdb.org/t/p/w500/ea8IuI1vB8qcrH6MKPu9FP0Xtbh.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/1ffhek5LfLX1FC7iJ9YIaEvMPRP.jpg",
-"overview": "A bank employee encounters a stranger girl inside his car on his way home from work. Little did he know the girl's presence would put his life in trouble.",
+"poster": "https://image.tmdb.org/t/p/w500/wR07XZNsWmPGFvitMN1zSk7gFbk.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/kNoCrVHYHW5iUZENNDuTs0Cj83B.jpg",
+"overview": "A man with partial blindness embarks on a journey to solve the mystery behind his father's death and uncovers a sinister political conspiracy.",
 "genres": [
 "Thriller",
+"Romance",
 "Action"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 1666,
+"imdb_votes": 857,
 "wr": 6.298
 },
 {
@@ -9786,7 +9786,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.3,
-"imdb_votes": 904,
+"imdb_votes": 906,
 "wr": 6.298
 },
 {
@@ -9802,7 +9802,7 @@
 "Drama"
 ],
 "imdb_rating": 8.5,
-"imdb_votes": 25134,
+"imdb_votes": 25169,
 "wr": 8.416
 },
 {
@@ -9819,7 +9819,7 @@
 "Mystery"
 ],
 "imdb_rating": 8.3,
-"imdb_votes": 87357,
+"imdb_votes": 87455,
 "wr": 8.277
 },
 {
@@ -9837,7 +9837,7 @@
 "War"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 24770,
+"imdb_votes": 24792,
 "wr": 8.03
 },
 {
@@ -9854,7 +9854,7 @@
 "Comedy"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 9022,
+"imdb_votes": 9025,
 "wr": 7.92
 },
 {
@@ -9872,7 +9872,7 @@
 "Science Fiction"
 ],
 "imdb_rating": 8.0,
-"imdb_votes": 4651,
+"imdb_votes": 4652,
 "wr": 7.698
 },
 {
@@ -9887,8 +9887,8 @@
 "Drama"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 5800,
-"wr": 7.493
+"imdb_votes": 5802,
+"wr": 7.494
 },
 {
 "id": "tt27744719",
@@ -9902,7 +9902,7 @@
 "Drama"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 2729,
+"imdb_votes": 2730,
 "wr": 7.47
 },
 {
@@ -9919,7 +9919,7 @@
 "Drama"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 18512,
+"imdb_votes": 18518,
 "wr": 7.438
 },
 {
@@ -9949,7 +9949,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 2469,
+"imdb_votes": 2471,
 "wr": 7.224
 },
 {
@@ -9982,7 +9982,7 @@
 "Drama"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 4040,
+"imdb_votes": 4041,
 "wr": 7.101
 },
 {
@@ -10029,7 +10029,7 @@
 "War"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 14555,
+"imdb_votes": 14558,
 "wr": 7.048
 },
 {
@@ -10104,7 +10104,7 @@
 "Drama"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 3755,
+"imdb_votes": 3757,
 "wr": 6.931
 },
 {
@@ -10138,7 +10138,7 @@
 "Horror"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 3380,
+"imdb_votes": 3381,
 "wr": 6.916
 },
 {
@@ -10168,7 +10168,7 @@
 "Drama"
 ],
 "imdb_rating": 6.8,
-"imdb_votes": 41636,
+"imdb_votes": 41650,
 "wr": 6.788
 },
 {
@@ -10183,7 +10183,7 @@
 "Drama"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 1168,
+"imdb_votes": 1169,
 "wr": 6.783
 },
 {
@@ -10246,7 +10246,7 @@
 "Comedy"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 1527,
+"imdb_votes": 1528,
 "wr": 6.721
 },
 {
@@ -10291,8 +10291,8 @@
 "Drama"
 ],
 "imdb_rating": 6.9,
-"imdb_votes": 1692,
-"wr": 6.675
+"imdb_votes": 1693,
+"wr": 6.676
 },
 {
 "id": "tt28020734",
@@ -10355,8 +10355,8 @@
 "Drama"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 699,
-"wr": 6.585
+"imdb_votes": 701,
+"wr": 6.586
 },
 {
 "id": "tt30488824",
@@ -10402,7 +10402,7 @@
 "Romance"
 ],
 "imdb_rating": 6.6,
-"imdb_votes": 2463,
+"imdb_votes": 2464,
 "wr": 6.512
 },
 {
@@ -10436,7 +10436,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 14210,
+"imdb_votes": 14215,
 "wr": 6.487
 },
 {
@@ -10469,7 +10469,7 @@
 "Drama"
 ],
 "imdb_rating": 6.6,
-"imdb_votes": 1594,
+"imdb_votes": 1595,
 "wr": 6.483
 },
 {
@@ -10487,8 +10487,8 @@
 "History"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 7352,
-"wr": 6.475
+"imdb_votes": 7356,
+"wr": 6.476
 },
 {
 "id": "tt25151410",
@@ -10503,7 +10503,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 4908,
+"imdb_votes": 4909,
 "wr": 6.465
 },
 {
@@ -10536,7 +10536,7 @@
 "Drama"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 612,
+"imdb_votes": 613,
 "wr": 6.449
 },
 {
@@ -10567,7 +10567,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 1281,
+"imdb_votes": 1282,
 "wr": 6.41
 },
 {
@@ -10600,8 +10600,8 @@
 "Mystery"
 ],
 "imdb_rating": 9.0,
-"imdb_votes": 10057,
-"wr": 8.755
+"imdb_votes": 10062,
+"wr": 8.756
 },
 {
 "id": "tt34915705",
@@ -10617,7 +10617,7 @@
 "Family"
 ],
 "imdb_rating": 8.1,
-"imdb_votes": 16790,
+"imdb_votes": 16805,
 "wr": 7.999
 },
 {
@@ -10634,7 +10634,7 @@
 "Drama"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 19718,
+"imdb_votes": 19733,
 "wr": 7.727
 },
 {
@@ -10666,7 +10666,7 @@
 "Romance"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 5388,
+"imdb_votes": 5394,
 "wr": 7.48
 },
 {
@@ -10682,7 +10682,7 @@
 "Action"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 8158,
+"imdb_votes": 8161,
 "wr": 7.458
 },
 {
@@ -10697,7 +10697,7 @@
 "Thriller"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 12916,
+"imdb_votes": 12930,
 "wr": 7.321
 },
 {
@@ -10714,7 +10714,7 @@
 "Action"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 10285,
+"imdb_votes": 10299,
 "wr": 7.302
 },
 {
@@ -10745,7 +10745,7 @@
 "Family"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 1746,
+"imdb_votes": 1747,
 "wr": 7.252
 },
 {
@@ -10761,8 +10761,8 @@
 "Drama"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 4765,
-"wr": 7.208
+"imdb_votes": 4776,
+"wr": 7.209
 },
 {
 "id": "tt28508934",
@@ -10778,7 +10778,7 @@
 "Drama"
 ],
 "imdb_rating": 7.2,
-"imdb_votes": 10281,
+"imdb_votes": 10290,
 "wr": 7.12
 },
 {
@@ -10811,23 +10811,7 @@
 ],
 "imdb_rating": 7.3,
 "imdb_votes": 3515,
-"wr": 7.077
-},
-{
-"id": "tt39195686",
-"tmdb_id": 1310458,
-"name": "Saayavanam",
-"year": 2025,
-"poster": "https://image.tmdb.org/t/p/w500/FfkveUaCib1ukPkBMeU2IFQcqw.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/anz69m07H9b2zG5Hw5OSQ71dwxJ.jpg",
-"overview": "Sita tries to live an honest and truthful life following all religious and social norms of her upbringing while unraveling the true agenda of men around her. In this process, she emerges victorious as a strong and brave woman.",
-"genres": [
-"Thriller",
-"Drama"
-],
-"imdb_rating": 7.7,
-"imdb_votes": 1035,
-"wr": 7.01
+"wr": 7.078
 },
 {
 "id": "tt37605189",
@@ -10861,8 +10845,8 @@
 "Science Fiction"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 1942,
-"wr": 6.958
+"imdb_votes": 1943,
+"wr": 6.959
 },
 {
 "id": "tt37528759",
@@ -10896,6 +10880,22 @@
 "wr": 6.927
 },
 {
+"id": "tt39195686",
+"tmdb_id": 1310458,
+"name": "Saayavanam",
+"year": 2025,
+"poster": "https://image.tmdb.org/t/p/w500/tSuqCq3YYLS8VOdiU9ikKOBs5Tz.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/anz69m07H9b2zG5Hw5OSQ71dwxJ.jpg",
+"overview": "Sita tries to live an honest and truthful life following all religious and social norms of her upbringing while unraveling the true agenda of men around her. In this process, she emerges victorious as a strong and brave woman.",
+"genres": [
+"Thriller",
+"Drama"
+],
+"imdb_rating": 7.5,
+"imdb_votes": 1039,
+"wr": 6.909
+},
+{
 "id": "tt29471661",
 "tmdb_id": 1416501,
 "name": "DNA",
@@ -10907,7 +10907,7 @@
 "Drama"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 2944,
+"imdb_votes": 2946,
 "wr": 6.896
 },
 {
@@ -10924,7 +10924,7 @@
 "Drama"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 2836,
+"imdb_votes": 2838,
 "wr": 6.89
 },
 {
@@ -10941,7 +10941,7 @@
 ],
 "imdb_rating": 7.3,
 "imdb_votes": 1418,
-"wr": 6.884
+"wr": 6.885
 },
 {
 "id": "tt36931506",
@@ -10957,7 +10957,7 @@
 "Drama"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 2624,
+"imdb_votes": 2627,
 "wr": 6.878
 },
 {
@@ -10974,21 +10974,8 @@
 "Drama"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 2565,
-"wr": 6.802
-},
-{
-"id": "tt36966119",
-"tmdb_id": 1638930,
-"name": "Ondimuniyum Nallapaadanum",
-"year": 2025,
-"poster": null,
-"background": null,
-"overview": "A poor low-caste farmer wants to sacrifice his goat to deity Ondimuni for saving his son, but temple festivities are suspended due to upper-caste feuding. Can he fulfill his vow?",
-"genres": [],
-"imdb_rating": 7.3,
-"imdb_votes": 1004,
-"wr": 6.799
+"imdb_votes": 2568,
+"wr": 6.803
 },
 {
 "id": "tt36575995",
@@ -11006,6 +10993,19 @@
 "imdb_rating": 6.9,
 "imdb_votes": 3163,
 "wr": 6.755
+},
+{
+"id": "tt36966119",
+"tmdb_id": 1638930,
+"name": "Ondimuniyum Nallapaadanum",
+"year": 2025,
+"poster": null,
+"background": null,
+"overview": "A poor low-caste farmer wants to sacrifice his goat to deity Ondimuni for saving his son, but temple festivities are suspended due to upper-caste feuding. Can he fulfill his vow?",
+"genres": [],
+"imdb_rating": 7.2,
+"imdb_votes": 1005,
+"wr": 6.749
 },
 {
 "id": "tt14465196",
@@ -11084,7 +11084,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.8,
-"imdb_votes": 4409,
+"imdb_votes": 4410,
 "wr": 6.707
 },
 {
@@ -11101,7 +11101,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 10855,
+"imdb_votes": 10862,
 "wr": 6.666
 },
 {
@@ -11180,7 +11180,7 @@
 ],
 "imdb_rating": 6.9,
 "imdb_votes": 1053,
-"wr": 6.605
+"wr": 6.606
 },
 {
 "id": "tt36987350",
@@ -11211,7 +11211,7 @@
 "Thriller"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 1897,
+"imdb_votes": 1898,
 "wr": 6.56
 },
 {
@@ -11228,23 +11228,7 @@
 ],
 "imdb_rating": 7.3,
 "imdb_votes": 344,
-"wr": 6.552
-},
-{
-"id": "tt36718029",
-"tmdb_id": 1469236,
-"name": "Nizharkudai",
-"year": 2025,
-"poster": "https://image.tmdb.org/t/p/w500/kwZIDwcKj6ltQEBEm9DObJqRWii.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/6CyZFJO8VRfofMOLJ1rOjMjkXd7.jpg",
-"overview": "Nizharkudai is a Tamil movie starring Devayani, Vijjith Shivashanmugam, Kanmani Manoharan and Neelima Rani in prominent roles. It is written and directed by Shiva Arumugam.",
-"genres": [
-"Family",
-"Thriller"
-],
-"imdb_rating": 7.2,
-"imdb_votes": 300,
-"wr": 6.504
+"wr": 6.553
 },
 {
 "id": "tt12378954",
@@ -11281,6 +11265,22 @@
 "wr": 6.483
 },
 {
+"id": "tt36718029",
+"tmdb_id": 1469236,
+"name": "Nizharkudai",
+"year": 2025,
+"poster": "https://image.tmdb.org/t/p/w500/kwZIDwcKj6ltQEBEm9DObJqRWii.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/6CyZFJO8VRfofMOLJ1rOjMjkXd7.jpg",
+"overview": "Nizharkudai is a Tamil movie starring Devayani, Vijjith Shivashanmugam, Kanmani Manoharan and Neelima Rani in prominent roles. It is written and directed by Shiva Arumugam.",
+"genres": [
+"Family",
+"Thriller"
+],
+"imdb_rating": 7.1,
+"imdb_votes": 301,
+"wr": 6.482
+},
+{
 "id": "tt33029024",
 "tmdb_id": 1323880,
 "name": "Idli Kadai",
@@ -11294,7 +11294,7 @@
 "Comedy"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 7358,
+"imdb_votes": 7371,
 "wr": 6.476
 },
 {
@@ -11327,7 +11327,7 @@
 "Action"
 ],
 "imdb_rating": 6.5,
-"imdb_votes": 5950,
+"imdb_votes": 5952,
 "wr": 6.471
 },
 {
@@ -11408,8 +11408,8 @@
 "Thriller"
 ],
 "imdb_rating": 9.5,
-"imdb_votes": 2491,
-"wr": 8.582
+"imdb_votes": 2498,
+"wr": 8.584
 },
 {
 "id": "tt44090278",
@@ -11425,25 +11425,8 @@
 "Action"
 ],
 "imdb_rating": 8.5,
-"imdb_votes": 13579,
-"wr": 8.349
-},
-{
-"id": "tt32909364",
-"tmdb_id": 1327835,
-"name": "Mookuthi Amman 2",
-"year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg",
-"overview": "A queen sacrifices herself to protect her son, the prince, from invading enemies.Mookuthi Amman returns to protect the child and confronts a mysterious woman who embodies a new and dangerous evil.",
-"genres": [
-"Fantasy",
-"Drama",
-"Comedy"
-],
-"imdb_rating": 8.5,
-"imdb_votes": 5158,
-"wr": 8.142
+"imdb_votes": 14255,
+"wr": 8.355
 },
 {
 "id": "tt42897565",
@@ -11458,41 +11441,42 @@
 "Romance"
 ],
 "imdb_rating": 8.6,
-"imdb_votes": 3119,
-"wr": 8.04
+"imdb_votes": 3120,
+"wr": 8.041
 },
 {
-"id": "tt33318732",
-"tmdb_id": 1234139,
-"name": "Jailer 2",
+"id": "tt32909364",
+"tmdb_id": 1327835,
+"name": "Mookuthi Amman 2",
 "year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-"overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
+"poster": "https://image.tmdb.org/t/p/w500/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg",
+"overview": "A queen sacrifices herself to protect her son, the prince, from invading enemies.Mookuthi Amman returns to protect the child and confronts a mysterious woman who embodies a new and dangerous evil.",
 "genres": [
-"Action",
-"Comedy",
-"Drama"
-],
-"imdb_rating": 8.0,
-"imdb_votes": 18378,
-"wr": 7.912
-},
-{
-"id": "tt22754948",
-"tmdb_id": 954445,
-"name": "Yezhu Kadal Yezhu Malai",
-"year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/djuJg2xIlQflpljmFme4ampp2IV.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/yz4iCqP2gyNhpnHar5NULeCQrbH.jpg",
-"overview": "Caught between family duty and romantic love, a young man faces an impossible choice.",
-"genres": [
+"Fantasy",
 "Drama",
-"Romance",
-"Fantasy"
+"Comedy"
 ],
-"imdb_rating": 8.8,
-"imdb_votes": 1699,
+"imdb_rating": 8.2,
+"imdb_votes": 5202,
+"wr": 7.893
+},
+{
+"id": "tt38192494",
+"tmdb_id": 1402181,
+"name": "Scene",
+"year": 2026,
+"poster": "https://image.tmdb.org/t/p/w500/1vjVJKpdT6gha7cpkmDJODpk8mU.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/xhBaF3bpEnZhf61klsWaFKkNZF.jpg",
+"overview": "Inbaraj, a police officer, is forced to come back from retirement when a new case resembles one he closed years ago. This time, he must solve it with a chaotic and troublesome team. As they struggle to work together and deal with the twists and turns of the case, the investigation takes them on a chaotic and unpredictable ride.",
+"genres": [
+"Comedy",
+"Crime",
+"Romance",
+"Action"
+],
+"imdb_rating": 8.2,
+"imdb_votes": 4801,
 "wr": 7.872
 },
 {
@@ -11513,24 +11497,6 @@
 "wr": 7.865
 },
 {
-"id": "tt38192494",
-"tmdb_id": 1402181,
-"name": "Scene",
-"year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/ktRXRaaOsuvqVOFCYU0WcF0R1hP.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/9LoBoEFUcruyFADWb30jTyUwCcF.jpg",
-"overview": "Inbaraj, a police officer, is forced to come back from retirement when a new case resembles one he closed years ago. This time, he must solve it with a chaotic and troublesome team. As they struggle to work together and deal with the twists and turns of the case, the investigation takes them on a chaotic and unpredictable ride.",
-"genres": [
-"Comedy",
-"Crime",
-"Romance",
-"Action"
-],
-"imdb_rating": 8.2,
-"imdb_votes": 4228,
-"wr": 7.836
-},
-{
 "id": "tt36596965",
 "tmdb_id": 1465943,
 "name": "Mandaadi",
@@ -11543,8 +11509,42 @@
 "Drama"
 ],
 "imdb_rating": 7.9,
-"imdb_votes": 12347,
+"imdb_votes": 12420,
 "wr": 7.78
+},
+{
+"id": "tt22754948",
+"tmdb_id": 954445,
+"name": "Yezhu Kadal Yezhu Malai",
+"year": 2026,
+"poster": "https://image.tmdb.org/t/p/w500/8HN26ItPXKT1us3TdskExilPn4J.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/2XznIOzFh36V0O0Hnxq8b9xTMlg.jpg",
+"overview": "Caught between family duty and romantic love, a young man faces an impossible choice.",
+"genres": [
+"Drama",
+"Romance",
+"Fantasy"
+],
+"imdb_rating": 8.6,
+"imdb_votes": 1728,
+"wr": 7.755
+},
+{
+"id": "tt33318732",
+"tmdb_id": 1234139,
+"name": "Jailer 2",
+"year": 2026,
+"poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
+"overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
+"genres": [
+"Action",
+"Comedy",
+"Drama"
+],
+"imdb_rating": 7.8,
+"imdb_votes": 20443,
+"wr": 7.73
 },
 {
 "id": "tt43681681",
@@ -11559,9 +11559,9 @@
 "Action",
 "Thriller"
 ],
-"imdb_rating": 9.2,
-"imdb_votes": 998,
-"wr": 7.746
+"imdb_rating": 9.0,
+"imdb_votes": 1125,
+"wr": 7.727
 },
 {
 "id": "tt38349121",
@@ -11576,15 +11576,15 @@
 "Family"
 ],
 "imdb_rating": 8.4,
-"imdb_votes": 1982,
-"wr": 7.694
+"imdb_votes": 1984,
+"wr": 7.695
 },
 {
 "id": "tt37501035",
 "tmdb_id": 1479832,
 "name": "DC",
 "year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
+"poster": "https://image.tmdb.org/t/p/w500/8k71CD24GIAmEFgHYRhqFvwbXH8.jpg",
 "background": "https://image.tmdb.org/t/p/w1280/v7kqufGRDotShPCw53SM7m8t6oc.jpg",
 "overview": "From avenging his mother’s murder to battling police corruption, Das becomes a fugitive after a deadly heist. Amid a trail of bloodshed and loss, he frees Chandra from a life of exploitation, and she gives him a reason to seek a life beyond violence.",
 "genres": [
@@ -11593,8 +11593,8 @@
 "Drama"
 ],
 "imdb_rating": 7.8,
-"imdb_votes": 10480,
-"wr": 7.669
+"imdb_votes": 10582,
+"wr": 7.67
 },
 {
 "id": "tt39122441",
@@ -11608,7 +11608,7 @@
 "Action"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 14752,
+"imdb_votes": 14751,
 "wr": 7.611
 },
 {
@@ -11628,22 +11628,6 @@
 "wr": 7.543
 },
 {
-"id": "tt33029123",
-"tmdb_id": 1314279,
-"name": "Hi :)",
-"year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/30pNvXUYKA0nLBStE7QcR6cuVJl.jpg",
-"overview": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
-"genres": [
-"Romance",
-"Drama"
-],
-"imdb_rating": 7.8,
-"imdb_votes": 4132,
-"wr": 7.507
-},
-{
 "id": "tt38915678",
 "tmdb_id": 1578079,
 "name": "Dorothy",
@@ -11656,8 +11640,8 @@
 "Drama"
 ],
 "imdb_rating": 7.7,
-"imdb_votes": 5994,
-"wr": 7.499
+"imdb_votes": 6211,
+"wr": 7.505
 },
 {
 "id": "tt38123566",
@@ -11672,8 +11656,8 @@
 "Comedy"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 7368,
-"wr": 7.444
+"imdb_votes": 7396,
+"wr": 7.445
 },
 {
 "id": "tt37737315",
@@ -11689,8 +11673,24 @@
 "Drama"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 6650,
-"wr": 7.429
+"imdb_votes": 6659,
+"wr": 7.43
+},
+{
+"id": "tt33029123",
+"tmdb_id": 1314279,
+"name": "Hi :)",
+"year": 2026,
+"poster": "https://image.tmdb.org/t/p/w500/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/30pNvXUYKA0nLBStE7QcR6cuVJl.jpg",
+"overview": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
+"genres": [
+"Romance",
+"Drama"
+],
+"imdb_rating": 7.7,
+"imdb_votes": 4152,
+"wr": 7.427
 },
 {
 "id": "tt40428579",
@@ -11709,23 +11709,6 @@
 "wr": 7.427
 },
 {
-"id": "tt43727339",
-"tmdb_id": 1740942,
-"name": "Photographer",
-"year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/2viJLcdWykkcagEfHpGZupbZiq4.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/g9I0qwd2dDPzs4yqilzb9IQy7UH.jpg",
-"overview": "Photographer follows Veera, a troubled and obsessive photographer determined to prove his worth in a world that has long dismissed him. Driven by ambition and haunted by a painful past, he ventures deep into Mathikettan Solai, a mysterious reserve forest, to capture a rare and elusive natural phenomenon that could change his life forever.",
-"genres": [
-"Fantasy",
-"Mystery",
-"Thriller"
-],
-"imdb_rating": 8.2,
-"imdb_votes": 1299,
-"wr": 7.372
-},
-{
 "id": "tt32741341",
 "tmdb_id": 1504848,
 "name": "Leader",
@@ -11738,24 +11721,61 @@
 "Drama"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 7213,
+"imdb_votes": 7216,
 "wr": 7.353
 },
 {
-"id": "tt39089210",
-"tmdb_id": 1786905,
-"name": "All Pass",
+"id": "tt43723233",
+"tmdb_id": 1728763,
+"name": "Drones",
 "year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/sQiLftJQCZPjZuzpn8Xzb5I6tlW.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/tKRDOQrGawdeVws7GT3kiJDsl63.jpg",
-"overview": "Three families from different parts of North Chennai come together through circumstances and, despite financial struggles, decide to live under one roof in Sathya Nagar. Their friendship grows into a close-knit bond, with the three families living like one. But when a conflict threatens this unity and puts their relationships at risk, they must face its consequences and decide whether their bond can survive.",
+"poster": "https://image.tmdb.org/t/p/w500/k14luImbnzAhFZzqFKgvVrnOF4D.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/7bIrEDdkZCMjLf2pz9YS8t8r2D2.jpg",
+"overview": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
 "genres": [
-"Family",
-"Drama"
+"Romance",
+"Comedy",
+"Mystery",
+"Horror",
+"Fantasy"
 ],
-"imdb_rating": 8.3,
-"imdb_votes": 1101,
-"wr": 7.346
+"imdb_rating": 7.9,
+"imdb_votes": 1872,
+"wr": 7.341
+},
+{
+"id": "tt38589436",
+"tmdb_id": 1531050,
+"name": "Black Gold",
+"year": 2026,
+"poster": "https://image.tmdb.org/t/p/w500/sVqYqwEK0abPUz7yC46HlrtHs71.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/fammMIgzXw8OtG4Sv8SfFkyarqx.jpg",
+"overview": "The value of human hair is skyrocketing day by day.  dark color, length, and strength of Indian women's hair are highly prized in the global market. Millions of dollars circulate in this industry, which is controlled by commercial mafias. It is a well-known fact that wherever there is money, bloodshed, rivalry, and envy inevitably follow",
+"genres": [
+"Action",
+"Drama",
+"Thriller"
+],
+"imdb_rating": 9.8,
+"imdb_votes": 425,
+"wr": 7.341
+},
+{
+"id": "tt43727339",
+"tmdb_id": 1740942,
+"name": "Photographer",
+"year": 2026,
+"poster": "https://image.tmdb.org/t/p/w500/2viJLcdWykkcagEfHpGZupbZiq4.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/g9I0qwd2dDPzs4yqilzb9IQy7UH.jpg",
+"overview": "Photographer follows Veera, a troubled and obsessive photographer determined to prove his worth in a world that has long dismissed him. Driven by ambition and haunted by a painful past, he ventures deep into Mathikettan Solai, a mysterious reserve forest, to capture a rare and elusive natural phenomenon that could change his life forever.",
+"genres": [
+"Fantasy",
+"Mystery",
+"Thriller"
+],
+"imdb_rating": 8.1,
+"imdb_votes": 1303,
+"wr": 7.316
 },
 {
 "id": "tt42262473",
@@ -11771,8 +11791,8 @@
 "Family"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 5077,
-"wr": 7.302
+"imdb_votes": 5141,
+"wr": 7.304
 },
 {
 "id": "tt35712605",
@@ -11786,8 +11806,8 @@
 "Drama"
 ],
 "imdb_rating": 7.6,
-"imdb_votes": 3283,
-"wr": 7.295
+"imdb_votes": 3309,
+"wr": 7.297
 },
 {
 "id": "tt39674550",
@@ -11807,30 +11827,11 @@
 "wr": 7.289
 },
 {
-"id": "tt43723233",
-"tmdb_id": 1728763,
-"name": "Drones",
-"year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/k14luImbnzAhFZzqFKgvVrnOF4D.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/7bIrEDdkZCMjLf2pz9YS8t8r2D2.jpg",
-"overview": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
-"genres": [
-"Romance",
-"Comedy",
-"Mystery",
-"Horror",
-"Fantasy"
-],
-"imdb_rating": 7.8,
-"imdb_votes": 1867,
-"wr": 7.275
-},
-{
 "id": "tt37971394",
 "tmdb_id": 1515729,
 "name": "Blast",
 "year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/mZZBUaAXSeEeO3RovqJssBQyxfK.jpg",
+"poster": "https://image.tmdb.org/t/p/w500/lpsUpXieodUhN6DlK9ZDnjkysLk.jpg",
 "background": "https://image.tmdb.org/t/p/w1280/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
 "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
 "genres": [
@@ -11838,8 +11839,24 @@
 "Thriller"
 ],
 "imdb_rating": 7.3,
-"imdb_votes": 18075,
+"imdb_votes": 18101,
 "wr": 7.247
+},
+{
+"id": "tt39089210",
+"tmdb_id": 1786905,
+"name": "All Pass",
+"year": 2026,
+"poster": "https://image.tmdb.org/t/p/w500/sQiLftJQCZPjZuzpn8Xzb5I6tlW.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/tKRDOQrGawdeVws7GT3kiJDsl63.jpg",
+"overview": "Three families from different parts of North Chennai come together through circumstances and, despite financial struggles, decide to live under one roof in Sathya Nagar. Their friendship grows into a close-knit bond, with the three families living like one. But when a conflict threatens this unity and puts their relationships at risk, they must face its consequences and decide whether their bond can survive.",
+"genres": [
+"Family",
+"Drama"
+],
+"imdb_rating": 8.1,
+"imdb_votes": 1109,
+"wr": 7.244
 },
 {
 "id": "tt39255646",
@@ -11854,8 +11871,8 @@
 "Drama"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 3054,
-"wr": 7.203
+"imdb_votes": 3066,
+"wr": 7.204
 },
 {
 "id": "tt39130951",
@@ -11887,8 +11904,8 @@
 "Comedy"
 ],
 "imdb_rating": 7.1,
-"imdb_votes": 10228,
-"wr": 7.028
+"imdb_votes": 10383,
+"wr": 7.029
 },
 {
 "id": "tt38267486",
@@ -11903,24 +11920,8 @@
 "Family"
 ],
 "imdb_rating": 7.4,
-"imdb_votes": 1718,
+"imdb_votes": 1719,
 "wr": 6.994
-},
-{
-"id": "tt38990721",
-"tmdb_id": 1620357,
-"name": "Lakshmikanthan Kolai Vazhakku",
-"year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/pGS1KRODHNYzR35slcgJp9NzMiP.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/zOwMpeSzfAQCxfhm2Me8cN1eBib.jpg",
-"overview": "A young man convicted of murder awaits execution, while a conflicted judge, an aging hangman, and a morally torn jailer confront the weight of justice, guilt, and humanity in the final hours before dawn.",
-"genres": [
-"Crime",
-"Drama"
-],
-"imdb_rating": 8.2,
-"imdb_votes": 537,
-"wr": 6.961
 },
 {
 "id": "tt38693888",
@@ -11936,8 +11937,8 @@
 "Drama"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 9423,
-"wr": 6.932
+"imdb_votes": 9441,
+"wr": 6.933
 },
 {
 "id": "tt11247720",
@@ -11952,8 +11953,24 @@
 "Drama"
 ],
 "imdb_rating": 8.6,
-"imdb_votes": 327,
-"wr": 6.863
+"imdb_votes": 328,
+"wr": 6.865
+},
+{
+"id": "tt38990721",
+"tmdb_id": 1620357,
+"name": "Lakshmikanthan Kolai Vazhakku",
+"year": 2026,
+"poster": "https://image.tmdb.org/t/p/w500/pGS1KRODHNYzR35slcgJp9NzMiP.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/zOwMpeSzfAQCxfhm2Me8cN1eBib.jpg",
+"overview": "A young man convicted of murder awaits execution, while a conflicted judge, an aging hangman, and a morally torn jailer confront the weight of justice, guilt, and humanity in the final hours before dawn.",
+"genres": [
+"Crime",
+"Drama"
+],
+"imdb_rating": 7.9,
+"imdb_votes": 540,
+"wr": 6.858
 },
 {
 "id": "tt37174734",
@@ -12001,7 +12018,7 @@
 "Drama"
 ],
 "imdb_rating": 6.9,
-"imdb_votes": 6583,
+"imdb_votes": 6596,
 "wr": 6.82
 },
 {
@@ -12016,8 +12033,8 @@
 "Drama"
 ],
 "imdb_rating": 7.5,
-"imdb_votes": 727,
-"wr": 6.802
+"imdb_votes": 728,
+"wr": 6.803
 },
 {
 "id": "tt39988920",
@@ -12061,7 +12078,7 @@
 "Drama"
 ],
 "imdb_rating": 6.9,
-"imdb_votes": 3434,
+"imdb_votes": 3439,
 "wr": 6.764
 },
 {
@@ -12077,8 +12094,8 @@
 "Thriller"
 ],
 "imdb_rating": 7.0,
-"imdb_votes": 1704,
-"wr": 6.739
+"imdb_votes": 1716,
+"wr": 6.741
 },
 {
 "id": "tt44636709",
@@ -12094,25 +12111,7 @@
 ],
 "imdb_rating": 7.4,
 "imdb_votes": 602,
-"wr": 6.71
-},
-{
-"id": "tt36931126",
-"tmdb_id": 1505305,
-"name": "Immortal",
-"year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/9wGj5f5AAOVZ8nHvEy5SaHlmogH.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/4akmXHqanJ2r7efr9tyJT08oFMm.jpg",
-"overview": "An unsuspecting man finds himself at the center of a series of mysterious deaths, forcing him to confront a truth that could cost him everything.",
-"genres": [
-"Romance",
-"Thriller",
-"Horror",
-"Fantasy"
-],
-"imdb_rating": 6.9,
-"imdb_votes": 1960,
-"wr": 6.696
+"wr": 6.711
 },
 {
 "id": "tt37458112",
@@ -12129,7 +12128,7 @@
 "Action"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 6483,
+"imdb_votes": 6504,
 "wr": 6.646
 },
 {
@@ -12162,7 +12161,25 @@
 ],
 "imdb_rating": 7.0,
 "imdb_votes": 633,
-"wr": 6.568
+"wr": 6.569
+},
+{
+"id": "tt36931126",
+"tmdb_id": 1505305,
+"name": "Immortal",
+"year": 2026,
+"poster": "https://image.tmdb.org/t/p/w500/9wGj5f5AAOVZ8nHvEy5SaHlmogH.jpg",
+"background": "https://image.tmdb.org/t/p/w1280/4akmXHqanJ2r7efr9tyJT08oFMm.jpg",
+"overview": "An unsuspecting man finds himself at the center of a series of mysterious deaths, forcing him to confront a truth that could cost him everything.",
+"genres": [
+"Romance",
+"Thriller",
+"Horror",
+"Fantasy"
+],
+"imdb_rating": 6.7,
+"imdb_votes": 2021,
+"wr": 6.566
 },
 {
 "id": "tt39260895",
@@ -12178,7 +12195,7 @@
 "Drama"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 1981,
+"imdb_votes": 1983,
 "wr": 6.564
 },
 {
@@ -12195,23 +12212,7 @@
 "Drama"
 ],
 "imdb_rating": 6.7,
-"imdb_votes": 1618,
-"wr": 6.545
-},
-{
-"id": "tt38496328",
-"tmdb_id": 1566325,
-"name": "Mellisai",
-"year": 2026,
-"poster": "https://image.tmdb.org/t/p/w500/tkXbSUHh9XhEwUQkSiCZxUfbtYm.jpg",
-"background": "https://image.tmdb.org/t/p/w1280/gQDE6lZPqnIQk3hI5YXWyBb1aWf.jpg",
-"overview": "A beautiful family drama woven around a central theme of father daughter bond which emphasizes human emotions at its depths.A daughters wish to make her dad participate in a reality show singing competition forms the crux of this emotional family dramaThe story takes place in two different time lines which reflects all these emotions in a poetic harmony of love, ambition, failure, success and the wheel of life.",
-"genres": [
-"Drama",
-"Family"
-],
-"imdb_rating": 6.9,
-"imdb_votes": 669,
-"wr": 6.538
+"imdb_votes": 1622,
+"wr": 6.546
 }
 ]
